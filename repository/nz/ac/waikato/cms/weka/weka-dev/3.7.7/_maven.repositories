@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:06:19 EST 2013
+#Thu Jan 03 20:48:43 EST 2013
 weka-dev-3.7.7.jar>central=
 weka-dev-3.7.7.pom>central=
+weka-dev-3.7.7-sources.jar>central=
+weka-dev-3.7.7-javadoc.jar>central=

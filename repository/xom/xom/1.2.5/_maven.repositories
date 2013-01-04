@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 19:09:44 EST 2013
+#Thu Jan 03 20:47:49 EST 2013
 xom-1.2.5.jar>central=
+xom-1.2.5-sources.jar>central=
+xom-1.2.5-javadoc.jar>central=
 xom-1.2.5.pom>central=

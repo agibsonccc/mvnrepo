@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 18:59:09 EST 2013
+#Thu Jan 03 20:46:55 EST 2013
 lucene-snowball-3.0.3.jar>central=
+lucene-snowball-3.0.3-javadoc.jar>central=
 lucene-snowball-3.0.3.pom>central=
+lucene-snowball-3.0.3-sources.jar>central=

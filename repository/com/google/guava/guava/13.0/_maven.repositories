@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 18:58:19 EST 2013
+#Thu Jan 03 20:46:37 EST 2013
 guava-13.0.jar>central=
 guava-13.0.pom>central=
+guava-13.0-sources.jar>central=
+guava-13.0-javadoc.jar>central=

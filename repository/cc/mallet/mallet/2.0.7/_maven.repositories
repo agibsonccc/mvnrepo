@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 18:58:36 EST 2013
+#Thu Jan 03 20:45:56 EST 2013
 mallet-2.0.7.jar>central=
 mallet-2.0.7.pom>central=
+mallet-2.0.7-sources.jar>central=
+mallet-2.0.7-javadoc.jar>central=

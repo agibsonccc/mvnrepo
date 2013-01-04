@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 18:58:25 EST 2013
+#Thu Jan 03 20:50:06 EST 2013
 libsvm-3.1.jar>central=
+libsvm-3.1-javadoc.jar>central=
+libsvm-3.1-sources.jar>central=
 libsvm-3.1.pom>central=

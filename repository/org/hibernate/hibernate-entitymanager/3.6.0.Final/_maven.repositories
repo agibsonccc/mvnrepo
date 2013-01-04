@@ -1,4 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:25:26 EST 2013
+#Thu Jan 03 20:38:17 EST 2013
 hibernate-entitymanager-3.6.0.Final.jar>central=
 hibernate-entitymanager-3.6.0.Final.pom>central=
+hibernate-entitymanager-3.6.0.Final-sources.jar>repository.jboss.org=
