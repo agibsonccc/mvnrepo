@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:25:21 EST 2013
+#Thu Jan 03 20:53:33 EST 2013
 javassist-3.12.1.GA.pom>central=
+javassist-3.12.1.GA-javadoc.jar>central=
+javassist-3.12.1.GA-sources.jar>central=
 javassist-3.12.1.GA.jar>central=

@@ -1,5 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:38:54 EST 2013
+#Thu Jan 03 20:52:46 EST 2013
 hibernate-commons-annotations-3.2.0.Final-javadoc.jar>repository.jboss.org=
 hibernate-commons-annotations-3.2.0.Final.pom>central=
 hibernate-commons-annotations-3.2.0.Final-sources.jar>repository.jboss.org=
+hibernate-commons-annotations-3.2.0.Final-sources.jar>central=
+hibernate-commons-annotations-3.2.0.Final-javadoc.jar>central=
