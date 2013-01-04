@@ -1,8 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:27:18 EST 2013
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262827629
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
-https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.james\:apache-standard-mailets\:jar\:1.1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/apache/james/apache-standard-mailets/1.1/apache-standard-mailets-1.1.jar
+#Thu Jan 03 20:33:55 EST 2013
 default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262837720
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357263235119
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262827629
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.james\:apache-standard-mailets\:jar\:1.1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/apache/james/apache-standard-mailets/1.1/apache-standard-mailets-1.1.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357263227001
 http\://maven.springframework.org/milestone/.lastUpdated=1357262838589
 http\://maven.springframework.org/milestone/.error=
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact org.apache.james\:apache-standard-mailets\:jar\:1.1 from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/org/apache/james/apache-standard-mailets/1.1/apache-standard-mailets-1.1.jar

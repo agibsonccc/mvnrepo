@@ -1,8 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:10:12 EST 2013
+#Thu Jan 03 20:34:41 EST 2013
 http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.1.0.RELEASE from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/org/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
 default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261243892
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357263281548
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
 default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261254913
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357263265890
 https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.1.0.RELEASE from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.1.0.RELEASE from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
 https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261324642
@@ -12,3 +15,4 @@ http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.spri
 default-http\://maven.springframework.org/milestone/.lastUpdated=1357261316875
 http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.1.0.RELEASE from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/springframework/spring-webmvc/3.1.0.RELEASE/spring-webmvc-3.1.0.RELEASE.jar
 https\://maven.java.net/content/repositories/releases/.error=
+https\://repository.apache.org/content/groups/snapshots/.error=

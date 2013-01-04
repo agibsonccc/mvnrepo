@@ -1,5 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:27:17 EST 2013
+#Thu Jan 03 20:33:47 EST 2013
 default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357262267877
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
 default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261746846
@@ -16,5 +16,7 @@ default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastU
 default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734457
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
+default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357263227004
 https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
 default-http\://maven.springframework.org/milestone/.lastUpdated=1357262279850
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
