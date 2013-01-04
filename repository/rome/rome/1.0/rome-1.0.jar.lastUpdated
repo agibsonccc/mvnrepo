@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 22:13:39 EST 2013
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357269172669
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357269184838
+default-http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357269219877
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact rome\:rome\:jar\:1.0 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/rome/rome/1.0/rome-1.0.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact rome\:rome\:jar\:1.0 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/rome/rome/1.0/rome-1.0.jar
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357269162236
+http\://repository.springsource.com/maven/bundles/external/.error=Could not transfer artifact rome\:rome\:jar\:1.0 from/to com.springsource.repository.bundles.external (http\://repository.springsource.com/maven/bundles/external)\: connection timed out to http\://repository.springsource.com/maven/bundles/external/rome/rome/1.0/rome-1.0.jar
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357269207878
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact rome\:rome\:jar\:1.0 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/rome/rome/1.0/rome-1.0.jar
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact rome\:rome\:jar\:1.0 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/rome/rome/1.0/rome-1.0.jar
+https\://maven.java.net/content/repositories/releases/.error=
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357269195878

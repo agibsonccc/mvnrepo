@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.amber</groupId>
+  <artifactId>amber-oauth2-httpclient4</artifactId>
+  <version>0.31-incubating-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20121214.002559</timestamp>
+      <buildNumber>21</buildNumber>
+    </snapshot>
+    <lastUpdated>20121214002559</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.31-incubating-20121214.002559-21</value>
+        <updated>20121214002559</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.31-incubating-20121214.002559-21</value>
+        <updated>20121214002559</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>tar.gz</extension>
+        <value>0.31-incubating-20121214.002559-21</value>
+        <updated>20121214002559</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>zip</extension>
+        <value>0.31-incubating-20121214.002559-21</value>
+        <updated>20121214002559</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

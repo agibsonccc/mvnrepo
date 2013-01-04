@@ -1,8 +1,9 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:17:11 EST 2013
+#Thu Jan 03 22:09:42 EST 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357268625213
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357268982519
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218878
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734464
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework\:spring-core\:jar\:3.1.2.RELEASE from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/springframework/spring-core/3.1.2.RELEASE/spring-core-3.1.2.RELEASE.jar
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-core\:jar\:3.1.2.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/springframework/spring-core/3.1.2.RELEASE/spring-core-3.1.2.RELEASE.jar
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.springframework\:spring-core\:jar\:3.1.2.RELEASE from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: No response received after 60000
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231006

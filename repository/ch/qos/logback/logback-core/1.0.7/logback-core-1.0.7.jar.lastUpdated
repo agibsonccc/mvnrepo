@@ -1,14 +1,15 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:34:41 EST 2013
+#Thu Jan 03 22:09:42 EST 2013
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218906
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231035
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357263281549
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357268982459
 https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357263265891
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734451
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357268625208
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact ch.qos.logback\:logback-core\:jar\:1.0.7 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/ch/qos/logback/logback-core/1.0.7/logback-core-1.0.7.jar
 http\://maven.springframework.org/milestone/.lastUpdated=1357263281686
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact ch.qos.logback\:logback-core\:jar\:1.0.7 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact ch.qos.logback\:logback-core\:jar\:1.0.7 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/ch/qos/logback/logback-core/1.0.7/logback-core-1.0.7.jar
 http\://maven.springframework.org/milestone/.error=
 https\://repository.apache.org/content/groups/snapshots/.error=

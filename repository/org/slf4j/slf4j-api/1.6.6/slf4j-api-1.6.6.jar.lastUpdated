@@ -1,4 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:08:54 EST 2013
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734453
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.6.6 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar
+#Thu Jan 03 22:09:42 EST 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357268625209
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357268982468
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=

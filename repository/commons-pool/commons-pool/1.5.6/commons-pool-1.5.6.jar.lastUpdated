@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 22:13:39 EST 2013
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357269172667
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357269184836
+default-http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357269219876
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:1.5.6 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/commons-pool/commons-pool/1.5.6/commons-pool-1.5.6.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:1.5.6 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/commons-pool/commons-pool/1.5.6/commons-pool-1.5.6.jar
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357269162235
+http\://repository.springsource.com/maven/bundles/external/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:1.5.6 from/to com.springsource.repository.bundles.external (http\://repository.springsource.com/maven/bundles/external)\: connection timed out to http\://repository.springsource.com/maven/bundles/external/commons-pool/commons-pool/1.5.6/commons-pool-1.5.6.jar
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357269207876
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:1.5.6 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.6/commons-pool-1.5.6.jar
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357269195877
+https\://maven.java.net/content/repositories/releases/.error=
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:1.5.6 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/commons-pool/commons-pool/1.5.6/commons-pool-1.5.6.jar

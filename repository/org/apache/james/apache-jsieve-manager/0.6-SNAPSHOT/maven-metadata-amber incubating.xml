@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.james</groupId>
+  <artifactId>apache-jsieve-manager</artifactId>
+  <version>0.6-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130104.015602</timestamp>
+      <buildNumber>240</buildNumber>
+    </snapshot>
+    <lastUpdated>20130104015602</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.6-20130104.015602-240</value>
+        <updated>20130104015602</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

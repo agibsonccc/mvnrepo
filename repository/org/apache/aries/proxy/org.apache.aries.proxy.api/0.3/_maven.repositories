@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 21:56:34 EST 2013
+org.apache.aries.proxy.api-0.3.jar>central=
+org.apache.aries.proxy.api-0.3.pom>central=
+org.apache.aries.proxy.api-0.3-javadoc.jar>central=
+org.apache.aries.proxy.api-0.3-sources.jar>central=

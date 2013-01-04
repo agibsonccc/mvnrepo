@@ -1,0 +1,22 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 21:30:27 EST 2013
+http\://download.java.net/maven/1/.error=Could not transfer artifact org.osgi\:org.osgi.core\:jar\:4.0.0 from/to maven1-java (http\://download.java.net/maven/1)\: No connector available to access repository maven1-java (http\://download.java.net/maven/1) of type legacy using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.osgi\:org.osgi.core\:jar\:4.0.0 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/osgi/org.osgi.core/4.0.0/org.osgi.core-4.0.0.jar
+default-http\://repo1.maven.org/maven2/.lastUpdated=1357266620208
+https\://source.db4o.com/maven/.lastUpdated=1357266627180
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357266512878
+http\://maven.restlet.org/.error=
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357266525071
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.osgi\:org.osgi.core\:jar\:4.0.0 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/osgi/org.osgi.core/4.0.0/org.osgi.core-4.0.0.jar
+legacy-http\://download.java.net/maven/1/.lastUpdated=1357266620360
+http\://download.java.net/maven/2/.lastUpdated=1357266620358
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.osgi\:org.osgi.core\:jar\:4.0.0 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.0.0/org.osgi.core-4.0.0.jar
+http\://maven.restlet.org/.lastUpdated=1357266609808
+http\://download.java.net/maven/2/.error=
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357266598031
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.osgi\:org.osgi.core\:jar\:4.0.0 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/osgi/org.osgi.core/4.0.0/org.osgi.core-4.0.0.jar
+https\://source.db4o.com/maven/.error=
+default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357266502404
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.osgi\:org.osgi.core\:jar\:4.0.0 from/to maven-central (http\://repo1.maven.org/maven2/)\: connection timed out to http\://repo1.maven.org/maven2/org/osgi/org.osgi.core/4.0.0/org.osgi.core-4.0.0.jar
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357266536973
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact org.osgi\:org.osgi.core\:jar\:4.0.0 from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/org/osgi/org.osgi.core/4.0.0/org.osgi.core-4.0.0.jar

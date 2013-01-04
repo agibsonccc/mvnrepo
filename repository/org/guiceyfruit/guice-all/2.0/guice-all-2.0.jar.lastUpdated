@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 21:30:00 EST 2013
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357266512842
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357266525045
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.guiceyfruit\:guice-all\:jar\:2.0 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/guiceyfruit/guice-all/2.0/guice-all-2.0.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.guiceyfruit\:guice-all\:jar\:2.0 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/guiceyfruit/guice-all/2.0/guice-all-2.0.jar
+default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357266502298
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357266598004
+http\://guiceyfruit.googlecode.com/svn/repo/releases/.lastUpdated=1357266600127
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.guiceyfruit\:guice-all\:jar\:2.0 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/guiceyfruit/guice-all/2.0/guice-all-2.0.jar
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357266536945
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact org.guiceyfruit\:guice-all\:jar\:2.0 from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/org/guiceyfruit/guice-all/2.0/guice-all-2.0.jar
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.guiceyfruit\:guice-all\:jar\:2.0 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/guiceyfruit/guice-all/2.0/guice-all-2.0.jar

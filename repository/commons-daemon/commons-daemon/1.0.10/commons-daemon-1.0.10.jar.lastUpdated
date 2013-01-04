@@ -1,8 +1,9 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:17:11 EST 2013
+#Thu Jan 03 22:09:42 EST 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357268625212
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357268982501
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218900
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734464
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact commons-daemon\:commons-daemon\:jar\:1.0.10 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/commons-daemon/commons-daemon/1.0.10/commons-daemon-1.0.10.jar
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-daemon\:commons-daemon\:jar\:1.0.10 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/commons-daemon/commons-daemon/1.0.10/commons-daemon-1.0.10.jar
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact commons-daemon\:commons-daemon\:jar\:1.0.10 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/commons-daemon/commons-daemon/1.0.10/commons-daemon-1.0.10.jar
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231028

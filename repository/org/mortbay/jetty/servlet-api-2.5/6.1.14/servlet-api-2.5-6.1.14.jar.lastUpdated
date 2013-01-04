@@ -1,0 +1,18 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 22:13:45 EST 2013
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357269172664
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357269184833
+http\://download.java.net/maven/2/.lastUpdated=1357269225059
+default-http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357269219872
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.mortbay.jetty\:servlet-api-2.5\:jar\:6.1.14 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/mortbay/jetty/servlet-api-2.5/6.1.14/servlet-api-2.5-6.1.14.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.mortbay.jetty\:servlet-api-2.5\:jar\:6.1.14 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/mortbay/jetty/servlet-api-2.5/6.1.14/servlet-api-2.5-6.1.14.jar
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357269162230
+http\://repository.springsource.com/maven/bundles/external/.error=Could not transfer artifact org.mortbay.jetty\:servlet-api-2.5\:jar\:6.1.14 from/to com.springsource.repository.bundles.external (http\://repository.springsource.com/maven/bundles/external)\: connection timed out to http\://repository.springsource.com/maven/bundles/external/org/mortbay/jetty/servlet-api-2.5/6.1.14/servlet-api-2.5-6.1.14.jar
+http\://download.java.net/maven/2/.error=
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357269207873
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.mortbay.jetty\:servlet-api-2.5\:jar\:6.1.14 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/mortbay/jetty/servlet-api-2.5/6.1.14/servlet-api-2.5-6.1.14.jar
+http\://download.java.net/maven/1/.error=Could not transfer artifact org.mortbay.jetty\:servlet-api-2.5\:jar\:6.1.14 from/to m1.java.net (http\://download.java.net/maven/1)\: No connector available to access repository m1.java.net (http\://download.java.net/maven/1) of type legacy using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+legacy-http\://download.java.net/maven/1/.lastUpdated=1357269225070
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.mortbay.jetty\:servlet-api-2.5\:jar\:6.1.14 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/mortbay/jetty/servlet-api-2.5/6.1.14/servlet-api-2.5-6.1.14.jar
+https\://maven.java.net/content/repositories/releases/.error=
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357269195873
