@@ -1,8 +1,20 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:17:22 EST 2013
-default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218910
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242608
-https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.1.2.RELEASE from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/springframework/spring-webmvc/3.1.2.RELEASE/spring-webmvc-3.1.2.RELEASE.jar
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.1.2.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.1.2.RELEASE/spring-webmvc-3.1.2.RELEASE.jar
+#Fri Jan 04 17:17:08 EST 2013
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.1.2.RELEASE from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/org/springframework/spring-webmvc/3.1.2.RELEASE/spring-webmvc-3.1.2.RELEASE.jar
+https\://repository.apache.org/content/repositories/snapshots/.error=
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357337825140
+http\://maven.springframework.org/milestone/.lastUpdated=1357337825583
+http\://maven.springframework.org/milestone/.error=
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218910
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357337826589
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.1.2.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.1.2.RELEASE/spring-webmvc-3.1.2.RELEASE.jar
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231038
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242608
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357337827294
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357337825355
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357337828270
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.1.2.RELEASE from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/springframework/spring-webmvc/3.1.2.RELEASE/spring-webmvc-3.1.2.RELEASE.jar
+https\://repository.apache.org/content/groups/snapshots/.error=
+https\://maven.java.net/content/repositories/releases/.error=

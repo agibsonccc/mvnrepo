@@ -1,8 +1,14 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Jan 04 14:16:31 EST 2013
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357326991195
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357326990463
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357326991053
+#Fri Jan 04 17:16:52 EST 2013
 http\://cleartk.googlecode.com/svn/repo/.error=
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357337812639
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357337811913
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357326990463
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357326991195
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1357337812914
 http\://repo.maven.apache.org/maven2/.error=
+http\://maven.springframework.org/milestone/.error=
+http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357326991053
+https\://repository.apache.org/content/groups/snapshots/.error=

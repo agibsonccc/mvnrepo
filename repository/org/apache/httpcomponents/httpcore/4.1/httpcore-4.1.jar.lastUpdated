@@ -1,18 +1,19 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:34:41 EST 2013
-http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.1 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261243891
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357263281545
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261254912
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357263265889
-https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.1 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261324641
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261231995
+#Fri Jan 04 17:18:16 EST 2013
 default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261812231
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar
-default-http\://maven.springframework.org/milestone/.lastUpdated=1357261316874
-http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.1 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar
-https\://maven.java.net/content/repositories/releases/.error=
+https\://repository.apache.org/content/repositories/snapshots/.error=
+http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.1 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357263265889
+http\://maven.springframework.org/milestone/.lastUpdated=1357337331379
+http\://maven.springframework.org/milestone/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357337896598
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357337324678
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357337325716
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357263281545
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357337337854
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357337894836
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
 https\://repository.apache.org/content/groups/snapshots/.error=
+https\://maven.java.net/content/repositories/releases/.error=
