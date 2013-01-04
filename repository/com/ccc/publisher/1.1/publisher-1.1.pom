@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<!-- The link to the hibernate-search parent POM only exists out of convenience 
+		since we are creating this archetype from an existing module of the Hibernate 
+		Search code base. If you want to know more about this process check the maven-archetype-plugin 
+		documentation http://maven.apache.org/archetype/maven-archetype-plugin, especially 
+		the goal create-from-project If you want to use this quick-start project 
+		as the base for your own application you should remove the <parent> entry. 
+		See also the other pointers in this pom! -->
+	<groupId>com.ccc</groupId>
+	<artifactId>publisher</artifactId>
+	<parent>
+		<groupId>com.ccc.cccframework</groupId>
+		<artifactId>cccframework</artifactId>
+		<version>1.1</version>
+		<relativePath>../</relativePath>
+	</parent>
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.3.2</version>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+	<dependencies>
+		<!-- Oauth 1/1.0a -->
+		<dependency>
+			<groupId>oauth.signpost</groupId>
+			<artifactId>signpost-core</artifactId>
+			<version>1.2.1.1</version>
+		</dependency>
+		<dependency>
+			<groupId>oauth.signpost</groupId>
+			<artifactId>signpost-commonshttp4</artifactId>
+			<version>1.2.1.1</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>com.ccc.cccframework</groupId>
+			<artifactId>messaging-commons</artifactId>
+		</dependency>
+
+		<!-- CCC oauth -->
+		<dependency>
+			<groupId>com.ccc.cccframework</groupId>
+			<artifactId>ccc-oauth</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.ccc</groupId>
+			<artifactId>ccc-users</artifactId>
+			<exclusions>
+				<exclusion>
+					<artifactId>persistence-api</artifactId>
+					<groupId>javax.persistence</groupId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+
+
+		<dependency>
+			<groupId>com.ccc.mail</groupId>
+			<artifactId>mailmvc</artifactId>
+
+		</dependency>
+
+		<dependency>
+			<groupId>com.ccc.mail</groupId>
+			<artifactId>mail-core</artifactId>
+			<version>${cccframework.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.ccc.mail</groupId>
+			<artifactId>mail-list</artifactId>
+			<version>${cccframework.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.ccc</groupId>
+			<artifactId>ccc-util</artifactId>
+		</dependency>
+
+		<!-- Http client -->
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpcore</artifactId>
+		</dependency>
+
+
+		<dependency>
+			<groupId>javax.mail</groupId>
+			<artifactId>mail</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpmime</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+
+		</dependency>
+
+
+		<!-- Log back -->
+
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-classic</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>javassist</groupId>
+			<artifactId>javassist</artifactId>
+			<version>3.12.1.GA</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>commons-validator</groupId>
+			<artifactId>commons-validator</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.james</groupId>
+			<artifactId>james-server-mailets</artifactId>
+			<version>3.0-beta4</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.hibernate.javax.persistence</groupId>
+			<artifactId>hibernate-jpa-2.0-api</artifactId>
+		</dependency>
+
+
+		<dependency>
+			<groupId>com.ccc.sendalyzeit</groupId>
+			<artifactId>textanalytics</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+	</dependencies>
+
+
+</project>

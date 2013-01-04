@@ -1,5 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:39:19 EST 2013
+#Fri Jan 04 08:45:08 EST 2013
 http\://cescoffier.github.com/maven-play2-plugin/maven/release/.lastUpdated=1357267159158
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357261915206
@@ -7,8 +7,9 @@ https\://repository.apache.org/content/groups/snapshots/.lastUpdated=13572619150
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357267159039
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
 default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261912813
-http\://maven.springframework.org/milestone/.lastUpdated=1357261915302
 http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact cglib\:cglib\:pom\:2.2 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/cglib/cglib/2.2/cglib-2.2.pom
+http\://maven.springframework.org/milestone/.lastUpdated=1357261915302
 http\://cescoffier.github.com/maven-play2-plugin/maven/release/.error=
+http\://repo.springsource.org/libs-milestone/.lastUpdated=1357307108264
 http\://maven.springframework.org/milestone/.error=
 https\://repository.apache.org/content/groups/snapshots/.error=

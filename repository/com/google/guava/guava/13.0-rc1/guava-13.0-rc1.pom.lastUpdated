@@ -1,14 +1,18 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:39:19 EST 2013
+#Fri Jan 04 08:45:09 EST 2013
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357307109011
 http\://cescoffier.github.com/maven-play2-plugin/maven/release/.lastUpdated=1357267159597
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357261959215
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357307109721
 https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261959003
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357267159481
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
 default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261956818
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
 http\://maven.springframework.org/milestone/.lastUpdated=1357261959325
 http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.guava\:guava\:pom\:13.0-rc1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/com/google/guava/guava/13.0-rc1/guava-13.0-rc1.pom
 http\://cescoffier.github.com/maven-play2-plugin/maven/release/.error=
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact com.google.guava\:guava\:pom\:13.0-rc1 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: Access denied to http\://repo.springsource.org/libs-milestone/com/google/guava/guava/13.0-rc1/guava-13.0-rc1.pom. Error code 401, Unauthorized
 http\://maven.springframework.org/milestone/.error=
 https\://repository.apache.org/content/groups/snapshots/.error=

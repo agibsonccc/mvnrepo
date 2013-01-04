@@ -1,10 +1,14 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:39:19 EST 2013
+#Fri Jan 04 08:45:11 EST 2013
+http\://cescoffier.github.com/maven-play2-plugin/maven/release/.lastUpdated=1357267159972
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357262000143
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357307111120
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261999941
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357267159865
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261999941
-http\://cescoffier.github.com/maven-play2-plugin/maven/release/.lastUpdated=1357267159972
-https\://repository.apache.org/content/groups/snapshots/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
 http\://cescoffier.github.com/maven-play2-plugin/maven/release/.error=
+http\://repo.springsource.org/libs-milestone/.error=
+http\://repo.springsource.org/libs-milestone/.lastUpdated=1357307110321
+https\://repository.apache.org/content/groups/snapshots/.error=

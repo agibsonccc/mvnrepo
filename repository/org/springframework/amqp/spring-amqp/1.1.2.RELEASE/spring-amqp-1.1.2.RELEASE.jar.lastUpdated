@@ -1,8 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:17:22 EST 2013
+#Fri Jan 04 08:58:25 EST 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357307905052
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218906
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242604
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework.amqp\:spring-amqp\:jar\:1.1.2.RELEASE from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/springframework/amqp/spring-amqp/1.1.2.RELEASE/spring-amqp-1.1.2.RELEASE.jar
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.amqp\:spring-amqp\:jar\:1.1.2.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/springframework/amqp/spring-amqp/1.1.2.RELEASE/spring-amqp-1.1.2.RELEASE.jar
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.springframework.amqp\:spring-amqp\:jar\:1.1.2.RELEASE from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/org/springframework/amqp/spring-amqp/1.1.2.RELEASE/spring-amqp-1.1.2.RELEASE.jar
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231034

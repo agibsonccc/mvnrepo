@@ -12,6 +12,10 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</repository>
+		<repository>
+			<id>sendalyzeit</id>
+			<url>https://raw.github.com/agibsonccc/mvnrepo/master/repository</url>
+		</repository>
 	</repositories>
 	<distributionManagement>
 		<repository>
@@ -19,6 +23,7 @@
 			<url>file:///home/agibsonccc/.m2/</url>
 		</repository>
 	</distributionManagement>
+
 	<dependencies>
 		<dependency>
 			<groupId>net.arnx</groupId>
@@ -86,4 +91,13 @@
 			<version>4.11</version>
 		</dependency>
 	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<version>2.4</version>
+			</plugin>
+		</plugins>
+	</build>
 </project>

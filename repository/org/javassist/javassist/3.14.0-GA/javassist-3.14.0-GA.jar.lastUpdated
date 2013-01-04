@@ -1,12 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:19:30 EST 2013
+#Fri Jan 04 08:58:25 EST 2013
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218904
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231032
 default-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1357262360626
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357307905048
 default-https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1357262370678
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242602
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.javassist\:javassist\:jar\:3.14.0-GA from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/javassist/javassist/3.14.0-GA/javassist-3.14.0-GA.jar
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.javassist\:javassist\:jar\:3.14.0-GA from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/javassist/javassist/3.14.0-GA/javassist-3.14.0-GA.jar
 https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=Could not transfer artifact org.javassist\:javassist\:jar\:3.14.0-GA from/to jboss-deprecated (https\://repository.jboss.org/nexus/content/repositories/deprecated/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/deprecated/org/javassist/javassist/3.14.0-GA/javassist-3.14.0-GA.jar
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.javassist\:javassist\:jar\:3.14.0-GA from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/org/javassist/javassist/3.14.0-GA/javassist-3.14.0-GA.jar
 http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.javassist\:javassist\:jar\:3.14.0-GA from/to jboss-public-repository-group (http\://repository.jboss.org/nexus/content/groups/public/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public/org/javassist/javassist/3.14.0-GA/javassist-3.14.0-GA.jar

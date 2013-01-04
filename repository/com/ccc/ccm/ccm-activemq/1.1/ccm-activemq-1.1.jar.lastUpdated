@@ -1,7 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 22:09:42 EST 2013
+#Fri Jan 04 08:58:25 EST 2013
 https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357268625211
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357268982494
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357307905032
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218900
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact com.ccc.ccm\:ccm-activemq\:jar\:1.1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/com/ccc/ccm/ccm-activemq/1.1/ccm-activemq-1.1.jar
 https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=

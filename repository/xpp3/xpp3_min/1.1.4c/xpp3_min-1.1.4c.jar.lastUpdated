@@ -1,5 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 22:13:39 EST 2013
+#Fri Jan 04 08:58:25 EST 2013
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact xpp3\:xpp3_min\:jar\:1.1.4c from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
 https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact xpp3\:xpp3_min\:jar\:1.1.4c from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
 default-https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1357262370677
@@ -8,10 +8,9 @@ https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=Could
 default-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1357262360623
 default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357269184839
 http\://maven.springframework.org/milestone/.error=Could not transfer artifact xpp3\:xpp3_min\:jar\:1.1.4c from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357307905046
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218903
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact xpp3\:xpp3_min\:jar\:1.1.4c from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231031
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357269207880
 http\://repository.springsource.com/maven/bundles/external/.error=Could not transfer artifact xpp3\:xpp3_min\:jar\:1.1.4c from/to com.springsource.repository.bundles.external (http\://repository.springsource.com/maven/bundles/external)\: connection timed out to http\://repository.springsource.com/maven/bundles/external/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
 https\://maven.java.net/content/repositories/releases/.lastUpdated=1357269162238
 http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact xpp3\:xpp3_min\:jar\:1.1.4c from/to jboss-public-repository-group (http\://repository.jboss.org/nexus/content/groups/public/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
