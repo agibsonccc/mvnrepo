@@ -115,5 +115,9 @@
 		<module>dateclassifier-model</module>
 		<module>maltparser-model</module>
 		<module>textanalytics-core</module>
+		<module>person-model</module>
+		<module>money-model</module>
+		<module>location-model</module>
+		<module>organization-model</module>
 	</modules>
 </project>

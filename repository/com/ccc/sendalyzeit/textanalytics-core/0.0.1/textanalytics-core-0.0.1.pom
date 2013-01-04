@@ -51,8 +51,36 @@
 		</dependency>
 		<dependency>
 			<groupId>com.ccc.sendalyzeit</groupId>
+			<artifactId>person-model</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>com.ccc.sendalyzeit</groupId>
+			<artifactId>money-model</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>com.ccc.sendalyzeit</groupId>
+			<artifactId>location-model</artifactId>
+			<version>0.0.1</version>
+		</dependency><dependency>
+			<groupId>com.ccc.sendalyzeit</groupId>
+			<artifactId>organization-model</artifactId>
+			<version>0.0.1</version>
+		</dependency><dependency>
+			<groupId>com.ccc.sendalyzeit</groupId>
 			<artifactId>describes-model</artifactId>
 			<version>0.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.cleartk</groupId>
+			<artifactId>cleartk-stanford-corenlp</artifactId>
+			<version>0.7.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.opennlp</groupId>
+			<artifactId>opennlp-uima</artifactId>
+			<version>1.5.2-incubating</version>
 		</dependency>
 	</dependencies>
 </project>
