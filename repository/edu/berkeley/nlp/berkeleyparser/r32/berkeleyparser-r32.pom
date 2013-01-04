@@ -1,0 +1,35 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>edu.berkeley.nlp</groupId>
+	<artifactId>berkeleyparser</artifactId>
+	<version>r32</version>
+	<packaging>jar</packaging>
+	<name>berkeleyparser</name>
+	<description>The Berkeley parser analyzes the grammatical structure of natural language using probabilistic context-free grammars (PCFGs).</description>
+	<url>http://code.google.com/p/berkeleyparser</url>
+	<licenses>
+		<license>
+			<name>GNU General Public License Version 2</name>
+			<url>http://www.gnu.org/licenses/gpl-2.0.txt</url>
+		</license>
+	</licenses>
+	<scm>
+		<connection>scm:svn:http://berkeleyparser.googlecode.com/svn/trunk/</connection>
+		<developerConnection>scm:svn:https://berkeleyparser.googlecode.com/svn/trunk/</developerConnection>
+		<url>http://berkeleyparser.googlecode.com/svn/trunk/</url>
+	</scm>
+	<developers>
+		<developer>
+			<id>slavpetrov</id>
+			<name>Slav Petrov</name>
+			<email>petrov@cs.berkeley.edu</email>
+		</developer>
+	</developers>
+	<properties>
+		<encoding>UTF-8</encoding>
+	</properties>
+	<build>
+		<sourceDirectory>src</sourceDirectory>
+	</build>
+</project>
