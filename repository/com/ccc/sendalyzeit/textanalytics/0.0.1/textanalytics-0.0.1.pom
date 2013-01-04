@@ -4,6 +4,7 @@
 	<groupId>com.ccc.sendalyzeit</groupId>
 	<artifactId>textanalytics</artifactId>
 	<version>0.0.1</version>
+	<packaging>pom</packaging>
 	<repositories>
 		<repository>
 			<id>Apache Snapshots</id>
@@ -90,6 +91,7 @@
 			<artifactId>junit</artifactId>
 			<version>4.11</version>
 		</dependency>
+		
 	</dependencies>
 	<build>
 		<plugins>
@@ -100,4 +102,18 @@
 			</plugin>
 		</plugins>
 	</build>
+	<modules>
+		<module>wordnet-dict</module>
+		<module>langdetect-profile</module>
+		<module>quicksearch-model</module>
+		<module>sentiment-model</module>
+		<module>spam-model</module>
+		<module>describes-model</module>
+		<module>wordnetclassifier-model</module>
+		<module>timeclassifier-model</module>
+		<module>eventclassifier-model</module>
+		<module>dateclassifier-model</module>
+		<module>maltparser-model</module>
+		<module>textanalytics-core</module>
+	</modules>
 </project>
