@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:13:39 EST 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357262019688
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262018966
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact play-spring\:play2-spring-module\:pom\:2.92 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/play-spring/play2-spring-module/2.92/play2-spring-module-2.92.pom
+http\://repo.maven.apache.org/maven2/.error=
+http\://cescoffier.github.com/maven-play2-plugin/maven/release/.lastUpdated=1357262019526
+http\://cescoffier.github.com/maven-play2-plugin/maven/release/.error=

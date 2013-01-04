@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:17:59 EST 2013
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218895
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231023
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact org.cleartk\:cleartk-ml-weka\:jar\:0.1.0 from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public-jboss/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public-jboss/org/cleartk/cleartk-ml-weka/0.1.0/cleartk-ml-weka-0.1.0.jar
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357262255953
+default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357262267885
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242592
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.cleartk\:cleartk-ml-weka\:jar\:0.1.0 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/cleartk/cleartk-ml-weka/0.1.0/cleartk-ml-weka-0.1.0.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.cleartk\:cleartk-ml-weka\:jar\:0.1.0 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/cleartk/cleartk-ml-weka/0.1.0/cleartk-ml-weka-0.1.0.jar
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.cleartk\:cleartk-ml-weka\:jar\:0.1.0 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/org/cleartk/cleartk-ml-weka/0.1.0/cleartk-ml-weka-0.1.0.jar
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357262279858
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.cleartk\:cleartk-ml-weka\:jar\:0.1.0 from/to org.springframework.maven.milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/cleartk/cleartk-ml-weka/0.1.0/cleartk-ml-weka-0.1.0.jar
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.cleartk\:cleartk-ml-weka\:jar\:0.1.0 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/cleartk/cleartk-ml-weka/0.1.0/cleartk-ml-weka-0.1.0.jar

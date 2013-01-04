@@ -1,0 +1,18 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:21:40 EST 2013
+http\://repo.springsource.org/libs-snapshot/.error=Could not transfer artifact org.hamcrest\:hamcrest-integration\:pom\:1.1 from/to spring-test-mvc (http\://repo.springsource.org/libs-snapshot/)\: Access denied to http\://repo.springsource.org/libs-snapshot/org/hamcrest/hamcrest-integration/1.1/hamcrest-integration-1.1.pom. Error code 401, Unauthorized
+http\://maven.vaadin.com/vaadin-addons/.error=
+http\://svn.codespot.com/a/apache-extras.org/camel-extra/maven2/releases/.error=
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262488822
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262475072
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.hamcrest\:hamcrest-integration\:pom\:1.1 from/to camel-snapshots (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/hamcrest/hamcrest-integration/1.1/hamcrest-integration-1.1.pom
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262500821
+http\://www.gntforex.com\:8347/nexus/content/repositories/CCC/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hamcrest\:hamcrest-integration\:pom\:1.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-integration/1.1/hamcrest-integration-1.1.pom
+http\://maven.springframework.org/milestone/.lastUpdated=1357262488968
+http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1357262474956
+http\://svn.codespot.com/a/apache-extras.org/camel-extra/maven2/releases/.lastUpdated=1357262475238
+http\://maven.springframework.org/milestone/.error=
+http\://www.gntforex.com\:8347/nexus/content/repositories/CCC/.lastUpdated=1357262475329
+default-http\://repo.springsource.org/libs-snapshot/.lastUpdated=1357262476960

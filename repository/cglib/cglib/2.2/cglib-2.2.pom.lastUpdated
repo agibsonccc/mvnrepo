@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:11:55 EST 2013
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357261915206
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261912813
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1357261915302
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact cglib\:cglib\:pom\:2.2 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/cglib/cglib/2.2/cglib-2.2.pom
+http\://maven.springframework.org/milestone/.error=
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261915002
+https\://repository.apache.org/content/groups/snapshots/.error=

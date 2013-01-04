@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:17:11 EST 2013
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218901
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231029
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357261624683
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261622691
+https\://repository.apache.org/content/repositories/snapshots/.error=
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261624001
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261622561
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact com.ccc\:ccc-jndi\:jar\:1.1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/com/ccc/ccc-jndi/1.1/ccc-jndi-1.1.jar
+http\://maven.springframework.org/milestone/.lastUpdated=1357261624118
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact com.ccc\:ccc-jndi\:jar\:1.1 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/com/ccc/ccc-jndi/1.1/ccc-jndi-1.1.jar
+http\://maven.springframework.org/milestone/.error=
+https\://maven.java.net/content/repositories/releases/.error=

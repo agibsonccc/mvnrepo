@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:27:18 EST 2013
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262827624
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.james\:james-server-data-api\:jar\:3.0-beta4 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/apache/james/james-server-data-api/3.0-beta4/james-server-data-api-3.0-beta4.jar
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262837717
+http\://maven.springframework.org/milestone/.lastUpdated=1357262838585
+http\://maven.springframework.org/milestone/.error=

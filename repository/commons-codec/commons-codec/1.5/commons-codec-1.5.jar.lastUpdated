@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:09:17 EST 2013
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261757998
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact commons-codec\:commons-codec\:jar\:1.5 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/commons-codec/commons-codec/1.5/commons-codec-1.5.jar
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734459
+default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261746848
+http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact commons-codec\:commons-codec\:jar\:1.5 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/commons-codec/commons-codec/1.5/commons-codec-1.5.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-codec\:commons-codec\:jar\:1.5 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.5/commons-codec-1.5.jar

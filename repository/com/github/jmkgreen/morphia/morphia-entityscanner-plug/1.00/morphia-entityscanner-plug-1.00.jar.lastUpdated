@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:17:22 EST 2013
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218913
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242610
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact com.github.jmkgreen.morphia\:morphia-entityscanner-plug\:jar\:1.00 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/com/github/jmkgreen/morphia/morphia-entityscanner-plug/1.00/morphia-entityscanner-plug-1.00.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.github.jmkgreen.morphia\:morphia-entityscanner-plug\:jar\:1.00 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/com/github/jmkgreen/morphia/morphia-entityscanner-plug/1.00/morphia-entityscanner-plug-1.00.jar
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact com.github.jmkgreen.morphia\:morphia-entityscanner-plug\:jar\:1.00 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/com/github/jmkgreen/morphia/morphia-entityscanner-plug/1.00/morphia-entityscanner-plug-1.00.jar
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231041

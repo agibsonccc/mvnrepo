@@ -1,0 +1,11 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:05:20 EST 2013
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261504815
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357261520093
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.commons\:commons-math\:pom\:2.0 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/apache/commons/commons-math/2.0/commons-math-2.0.pom
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.apache.commons\:commons-math\:pom\:2.0 from/to CCC (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/apache/commons/commons-math/2.0/commons-math-2.0.pom
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261519038
+7f62897e9766692c41b33f3525843f785e46fff0@default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261492961
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.apache.commons\:commons-math\:pom\:2.0 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/apache/commons/commons-math/2.0/commons-math-2.0.pom
+https\://maven.java.net/content/repositories/releases/.error=
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357261516394

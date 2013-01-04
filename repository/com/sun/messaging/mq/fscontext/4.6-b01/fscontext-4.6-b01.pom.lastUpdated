@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:22:10 EST 2013
+http\://repo.springsource.org/libs-snapshot/.error=Could not transfer artifact com.sun.messaging.mq\:fscontext\:pom\:4.6-b01 from/to spring-test-mvc (http\://repo.springsource.org/libs-snapshot/)\: Access denied to http\://repo.springsource.org/libs-snapshot/com/sun/messaging/mq/fscontext/4.6-b01/fscontext-4.6-b01.pom. Error code 401, Unauthorized
+http\://maven.vaadin.com/vaadin-addons/.error=
+http\://svn.codespot.com/a/apache-extras.org/camel-extra/maven2/releases/.error=
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262526819
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357262530981
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262513783
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact com.sun.messaging.mq\:fscontext\:pom\:4.6-b01 from/to camel-snapshots (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/com/sun/messaging/mq/fscontext/4.6-b01/fscontext-4.6-b01.pom
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+http\://www.gntforex.com\:8347/nexus/content/repositories/CCC/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1357262528252
+http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1357262513670
+http\://svn.codespot.com/a/apache-extras.org/camel-extra/maven2/releases/.lastUpdated=1357262513960
+http\://maven.springframework.org/milestone/.error=
+http\://www.gntforex.com\:8347/nexus/content/repositories/CCC/.lastUpdated=1357262514043
+default-http\://repo.springsource.org/libs-snapshot/.lastUpdated=1357262515923

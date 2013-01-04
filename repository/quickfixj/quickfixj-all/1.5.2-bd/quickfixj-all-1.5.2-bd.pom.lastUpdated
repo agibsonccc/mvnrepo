@@ -1,0 +1,19 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:24:38 EST 2013
+http\://repo.springsource.org/libs-snapshot/.error=
+http\://maven.vaadin.com/vaadin-addons/.error=
+http\://svn.codespot.com/a/apache-extras.org/camel-extra/maven2/releases/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357262676296
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262671860
+https\://repository.apache.org/content/repositories/snapshots/.error=
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+http\://repo.marketcetera.org/maven/.lastUpdated=1357262678950
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262676117
+http\://www.gntforex.com\:8347/nexus/content/repositories/CCC/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1357262676212
+http\://repo.maven.apache.org/maven2/.error=
+http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1357262671756
+http\://repo.springsource.org/libs-snapshot/.lastUpdated=1357262673810
+http\://maven.springframework.org/milestone/.error=
+http\://svn.codespot.com/a/apache-extras.org/camel-extra/maven2/releases/.lastUpdated=1357262672018
+http\://www.gntforex.com\:8347/nexus/content/repositories/CCC/.lastUpdated=1357262672092

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:11:22 EST 2013
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357261882895
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261880105
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-entitymanager\:pom\:3.6.9.Final from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/3.6.9.Final/hibernate-entitymanager-3.6.9.Final.pom
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261881995
+https\://repository.apache.org/content/groups/snapshots/.error=

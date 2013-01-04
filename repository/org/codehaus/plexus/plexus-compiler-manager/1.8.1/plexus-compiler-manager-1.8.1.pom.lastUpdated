@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:20:06 EST 2013
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262406837
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.codehaus.plexus\:plexus-compiler-manager\:pom\:1.8.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.8.1/plexus-compiler-manager-1.8.1.pom

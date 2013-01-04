@@ -1,0 +1,22 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:17:47 EST 2013
+default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357262267870
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.dnsjava\:dnsjava\:jar\:2.0.6 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/org/dnsjava/dnsjava/2.0.6/dnsjava-2.0.6.jar
+default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261812216
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.dnsjava\:dnsjava\:jar\:2.0.6 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/dnsjava/dnsjava/2.0.6/dnsjava-2.0.6.jar
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261243880
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357262255939
+http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact org.dnsjava\:dnsjava\:jar\:2.0.6 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/org/dnsjava/dnsjava/2.0.6/dnsjava-2.0.6.jar
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261254901
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.dnsjava\:dnsjava\:jar\:2.0.6 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/dnsjava/dnsjava/2.0.6/dnsjava-2.0.6.jar
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218883
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact org.dnsjava\:dnsjava\:jar\:2.0.6 from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public-jboss/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public-jboss/org/dnsjava/dnsjava/2.0.6/dnsjava-2.0.6.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.dnsjava\:dnsjava\:jar\:2.0.6 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/dnsjava/dnsjava/2.0.6/dnsjava-2.0.6.jar
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231011
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261231989
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261324630
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.dnsjava\:dnsjava\:jar\:2.0.6 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/dnsjava/dnsjava/2.0.6/dnsjava-2.0.6.jar
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.dnsjava\:dnsjava\:jar\:2.0.6 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/dnsjava/dnsjava/2.0.6/dnsjava-2.0.6.jar
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.dnsjava\:dnsjava\:jar\:2.0.6 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/dnsjava/dnsjava/2.0.6/dnsjava-2.0.6.jar
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357261316860
+https\://maven.java.net/content/repositories/releases/.error=

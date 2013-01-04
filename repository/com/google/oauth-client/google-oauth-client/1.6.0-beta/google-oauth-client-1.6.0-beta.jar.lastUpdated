@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:17:22 EST 2013
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218878
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242584
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact com.google.oauth-client\:google-oauth-client\:jar\:1.6.0-beta from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/com/google/oauth-client/google-oauth-client/1.6.0-beta/google-oauth-client-1.6.0-beta.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.oauth-client\:google-oauth-client\:jar\:1.6.0-beta from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client/1.6.0-beta/google-oauth-client-1.6.0-beta.jar
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact com.google.oauth-client\:google-oauth-client\:jar\:1.6.0-beta from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: No response received after 60000
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231006

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:12:11 EST 2013
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357261931115
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261925317
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javassist\:javassist\:pom\:3.12.0.GA from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/javassist/javassist/3.12.0.GA/javassist-3.12.0.GA.pom
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261927995
+https\://repository.apache.org/content/groups/snapshots/.error=

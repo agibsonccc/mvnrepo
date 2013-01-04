@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:18:41 EST 2013
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218896
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231024
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262292841
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262305400
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.james\:james-server-core\:jar\:3.0-beta4 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/apache/james/james-server-core/3.0-beta4/james-server-core-3.0-beta4.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357262321225
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242593
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.james\:james-server-core\:jar\:3.0-beta4 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/apache/james/james-server-core/3.0-beta4/james-server-core-3.0-beta4.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.james\:james-server-core\:jar\:3.0-beta4 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/james/james-server-core/3.0-beta4/james-server-core-3.0-beta4.jar
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.apache.james\:james-server-core\:jar\:3.0-beta4 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/org/apache/james/james-server-core/3.0-beta4/james-server-core-3.0-beta4.jar
+https\://maven.java.net/content/repositories/releases/.error=
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.apache.james\:james-server-core\:jar\:3.0-beta4 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/apache/james/james-server-core/3.0-beta4/james-server-core-3.0-beta4.jar
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357262317840

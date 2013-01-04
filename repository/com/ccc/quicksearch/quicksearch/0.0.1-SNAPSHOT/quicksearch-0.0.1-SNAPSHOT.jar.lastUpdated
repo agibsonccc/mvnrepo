@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:17:47 EST 2013
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218888
+default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357262267876
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact com.ccc.quicksearch\:quicksearch\:jar\:0.0.1-SNAPSHOT from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public-jboss/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public-jboss/com/ccc/quicksearch/quicksearch/0.0.1-SNAPSHOT/quicksearch-0.0.1-SNAPSHOT.jar
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact com.ccc.quicksearch\:quicksearch\:jar\:0.0.1-SNAPSHOT from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/com/ccc/quicksearch/quicksearch/0.0.1-SNAPSHOT/quicksearch-0.0.1-SNAPSHOT.jar
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357262255945
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact com.ccc.quicksearch\:quicksearch\:jar\:0.0.1-SNAPSHOT from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/com/ccc/quicksearch/quicksearch/0.0.1-SNAPSHOT/quicksearch-0.0.1-SNAPSHOT.jar
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact com.ccc.quicksearch\:quicksearch\:jar\:0.0.1-SNAPSHOT from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/com/ccc/quicksearch/quicksearch/0.0.1-SNAPSHOT/quicksearch-0.0.1-SNAPSHOT.jar
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231016

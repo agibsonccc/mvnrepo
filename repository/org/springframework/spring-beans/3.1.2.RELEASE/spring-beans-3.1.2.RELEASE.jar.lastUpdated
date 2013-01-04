@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:17:11 EST 2013
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261768030
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218876
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231005
+https\://repository.apache.org/content/repositories/snapshots/.error=
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:3.1.2.RELEASE from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.RELEASE.jar
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261771011
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261775223
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734465
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:3.1.2.RELEASE from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.RELEASE.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:3.1.2.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.RELEASE.jar
+http\://maven.springframework.org/milestone/.lastUpdated=1357261774000
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:3.1.2.RELEASE from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: No response received after 60000
+https\://maven.java.net/content/repositories/releases/.error=
+http\://maven.springframework.org/milestone/.error=

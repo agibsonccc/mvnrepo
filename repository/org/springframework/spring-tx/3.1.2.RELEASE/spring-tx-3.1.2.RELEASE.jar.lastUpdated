@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:17:11 EST 2013
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261768032
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218909
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231037
+https\://repository.apache.org/content/repositories/snapshots/.error=
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.springframework\:spring-tx\:jar\:3.1.2.RELEASE from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/springframework/spring-tx/3.1.2.RELEASE/spring-tx-3.1.2.RELEASE.jar
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261771014
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261775226
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734465
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework\:spring-tx\:jar\:3.1.2.RELEASE from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/springframework/spring-tx/3.1.2.RELEASE/spring-tx-3.1.2.RELEASE.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-tx\:jar\:3.1.2.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.1.2.RELEASE/spring-tx-3.1.2.RELEASE.jar
+http\://maven.springframework.org/milestone/.lastUpdated=1357261774003
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.springframework\:spring-tx\:jar\:3.1.2.RELEASE from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/org/springframework/spring-tx/3.1.2.RELEASE/spring-tx-3.1.2.RELEASE.jar
+https\://maven.java.net/content/repositories/releases/.error=
+http\://maven.springframework.org/milestone/.error=

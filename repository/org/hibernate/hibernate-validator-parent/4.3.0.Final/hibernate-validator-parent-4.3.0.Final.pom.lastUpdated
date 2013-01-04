@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:11:10 EST 2013
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357261870075
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261867819
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-validator-parent\:pom\:4.3.0.Final from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/4.3.0.Final/hibernate-validator-parent-4.3.0.Final.pom
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261869123
+https\://repository.apache.org/content/groups/snapshots/.error=

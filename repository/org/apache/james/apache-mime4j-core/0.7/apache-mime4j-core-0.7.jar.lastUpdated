@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:09:17 EST 2013
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261757997
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.apache.james\:apache-mime4j-core\:jar\:0.7 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/apache/james/apache-mime4j-core/0.7/apache-mime4j-core-0.7.jar
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734458
+default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261746847
+http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact org.apache.james\:apache-mime4j-core\:jar\:0.7 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/org/apache/james/apache-mime4j-core/0.7/apache-mime4j-core-0.7.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.james\:apache-mime4j-core\:jar\:0.7 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j-core/0.7/apache-mime4j-core-0.7.jar

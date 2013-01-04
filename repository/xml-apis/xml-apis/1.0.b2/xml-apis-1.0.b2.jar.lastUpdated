@@ -1,0 +1,20 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:25:20 EST 2013
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:1.0.b2 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+https\://repository.apache.org/content/repositories/snapshots/.error=
+default-https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1357262370678
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:1.0.b2 from/to jboss-deprecated (https\://repository.jboss.org/nexus/content/repositories/deprecated/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/deprecated/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+default-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1357262360625
+http\://maven.springframework.org/milestone/.lastUpdated=1357262720248
+http\://maven.springframework.org/milestone/.error=
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218904
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262720135
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:1.0.b2 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231032
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242601
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262720006
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357262720534
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:1.0.b2 from/to jboss-public-repository-group (http\://repository.jboss.org/nexus/content/groups/public/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:1.0.b2 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+https\://maven.java.net/content/repositories/releases/.error=

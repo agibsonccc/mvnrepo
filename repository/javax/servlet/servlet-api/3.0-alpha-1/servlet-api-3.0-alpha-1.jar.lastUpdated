@@ -1,0 +1,15 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:18:25 EST 2013
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218901
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231029
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262292850
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262281920
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact javax.servlet\:servlet-api\:jar\:3.0-alpha-1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357262305131
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242598
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact javax.servlet\:servlet-api\:jar\:3.0-alpha-1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.servlet\:servlet-api\:jar\:3.0-alpha-1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact javax.servlet\:servlet-api\:jar\:3.0-alpha-1 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact javax.servlet\:servlet-api\:jar\:3.0-alpha-1 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357262302874

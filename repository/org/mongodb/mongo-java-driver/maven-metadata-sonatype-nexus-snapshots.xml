@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.mongodb</groupId>
+  <artifactId>mongo-java-driver</artifactId>
+  <versioning>
+    <latest>2.11.0-SNAPSHOT</latest>
+    <release></release>
+    <versions>
+      <version>2.11.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20121207063728</lastUpdated>
+  </versioning>
+</metadata>

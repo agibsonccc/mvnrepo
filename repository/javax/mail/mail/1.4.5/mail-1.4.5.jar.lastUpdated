@@ -1,0 +1,15 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:18:41 EST 2013
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218897
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231025
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262292845
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262305405
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4.5 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/javax/mail/mail/1.4.5/mail-1.4.5.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357262321229
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242594
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4.5 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/javax/mail/mail/1.4.5/mail-1.4.5.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4.5 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/javax/mail/mail/1.4.5/mail-1.4.5.jar
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4.5 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/javax/mail/mail/1.4.5/mail-1.4.5.jar
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4.5 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/javax/mail/mail/1.4.5/mail-1.4.5.jar
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357262317846

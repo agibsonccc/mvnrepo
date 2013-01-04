@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:17:11 EST 2013
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218906
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734451
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact ch.qos.logback\:logback-core\:jar\:1.0.7 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/ch/qos/logback/logback-core/1.0.7/logback-core-1.0.7.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact ch.qos.logback\:logback-core\:jar\:1.0.7 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact ch.qos.logback\:logback-core\:jar\:1.0.7 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/ch/qos/logback/logback-core/1.0.7/logback-core-1.0.7.jar
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231035

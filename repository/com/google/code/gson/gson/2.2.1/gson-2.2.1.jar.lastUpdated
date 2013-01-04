@@ -1,0 +1,12 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:27:18 EST 2013
+http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:2.2.1 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/com/google/code/gson/gson/2.2.1/gson-2.2.1.jar
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261758003
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262837735
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:2.2.1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/com/google/code/gson/gson/2.2.1/gson-2.2.1.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:2.2.1 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/com/google/code/gson/gson/2.2.1/gson-2.2.1.jar
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734463
+default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261746852
+http\://maven.springframework.org/milestone/.lastUpdated=1357262838590
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:2.2.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.2.1/gson-2.2.1.jar
+http\://maven.springframework.org/milestone/.error=

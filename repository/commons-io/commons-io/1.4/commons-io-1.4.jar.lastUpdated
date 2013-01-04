@@ -1,0 +1,12 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:10:39 EST 2013
+http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact commons-io\:commons-io\:jar\:1.4 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/commons-io/commons-io/1.4/commons-io-1.4.jar
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261822256
+http\://download.java.net/maven/2/.lastUpdated=1357261839937
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact commons-io\:commons-io\:jar\:1.4 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/commons-io/commons-io/1.4/commons-io-1.4.jar
+http\://download.java.net/maven/2/.error=
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261834815
+default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261812212
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-io\:commons-io\:jar\:1.4 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/commons-io/commons-io/1.4/commons-io-1.4.jar
+http\://people.apache.org/repo/m2-incubating-repository/.lastUpdated=1357261836995
+http\://people.apache.org/repo/m2-incubating-repository/.error=

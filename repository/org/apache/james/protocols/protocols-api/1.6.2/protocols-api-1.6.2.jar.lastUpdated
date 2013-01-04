@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:27:18 EST 2013
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262827628
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.james.protocols\:protocols-api\:jar\:1.6.2 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/apache/james/protocols/protocols-api/1.6.2/protocols-api-1.6.2.jar
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262837720
+http\://maven.springframework.org/milestone/.lastUpdated=1357262838588
+http\://maven.springframework.org/milestone/.error=

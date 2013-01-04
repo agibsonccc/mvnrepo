@@ -1,0 +1,18 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:17:59 EST 2013
+http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact org.apache.james\:apache-mime4j-dom\:jar\:0.7 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/org/apache/james/apache-mime4j-dom/0.7/apache-mime4j-dom-0.7.jar
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261757997
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218889
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231017
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact org.apache.james\:apache-mime4j-dom\:jar\:0.7 from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public-jboss/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public-jboss/org/apache/james/apache-mime4j-dom/0.7/apache-mime4j-dom-0.7.jar
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357262255946
+default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357262267878
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.apache.james\:apache-mime4j-dom\:jar\:0.7 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/apache/james/apache-mime4j-dom/0.7/apache-mime4j-dom-0.7.jar
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734459
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.james\:apache-mime4j-dom\:jar\:0.7 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/apache/james/apache-mime4j-dom/0.7/apache-mime4j-dom-0.7.jar
+default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261746847
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.james\:apache-mime4j-dom\:jar\:0.7 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/james/apache-mime4j-dom/0.7/apache-mime4j-dom-0.7.jar
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.apache.james\:apache-mime4j-dom\:jar\:0.7 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/org/apache/james/apache-mime4j-dom/0.7/apache-mime4j-dom-0.7.jar
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357262279850
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.apache.james\:apache-mime4j-dom\:jar\:0.7 from/to org.springframework.maven.milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/apache/james/apache-mime4j-dom/0.7/apache-mime4j-dom-0.7.jar
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.apache.james\:apache-mime4j-dom\:jar\:0.7 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/apache/james/apache-mime4j-dom/0.7/apache-mime4j-dom-0.7.jar

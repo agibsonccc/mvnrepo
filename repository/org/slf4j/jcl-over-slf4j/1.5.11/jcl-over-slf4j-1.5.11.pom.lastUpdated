@@ -1,0 +1,11 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:04:41 EST 2013
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261466817
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357261481036
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:pom\:1.5.11 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/slf4j/jcl-over-slf4j/1.5.11/jcl-over-slf4j-1.5.11.pom
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:pom\:1.5.11 from/to CCC (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/slf4j/jcl-over-slf4j/1.5.11/jcl-over-slf4j-1.5.11.pom
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261479902
+7f62897e9766692c41b33f3525843f785e46fff0@default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261455817
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:pom\:1.5.11 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/slf4j/jcl-over-slf4j/1.5.11/jcl-over-slf4j-1.5.11.pom
+https\://maven.java.net/content/repositories/releases/.error=
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357261477817

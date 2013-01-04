@@ -1,0 +1,336 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.ccc.forex</groupId>
+	<artifactId>forexmessenger-commons</artifactId>
+	<version>0.0.1.8.3</version>
+	<name>forex commons</name>
+	<packaging>jar</packaging>
+	<description>Common utilities between the server and client for forex messenger</description>
+
+	<issueManagement>
+		<system>JIRA</system>
+		<url>http://www.clevercloudcomputing.com/jira/</url>
+	</issueManagement>
+	<organization>
+		<name>Clever Cloud Computing,LLC</name>
+		<url>http://www.clevercloudcomputing.com</url>
+	</organization>
+
+	<parent>
+		<groupId>com.ccc.forex</groupId>
+		<artifactId>forex-parent</artifactId>
+		<version>0.0.2</version>
+	</parent>
+
+	<dependencies>
+
+		<!-- Java mail -->
+		<dependency>
+			<groupId>javax.mail</groupId>
+			<artifactId>mail</artifactId>
+		</dependency>
+
+
+		<!-- CCC users -->
+		<dependency>
+			<groupId>org.springframework.security.oauth</groupId>
+			<artifactId>spring-security-oauth</artifactId>
+		</dependency>
+		<!-- Proxool transaction management -->
+		<dependency>
+			<groupId>proxool</groupId>
+			<artifactId>proxool</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>proxool</groupId>
+			<artifactId>proxool-cglib</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.10</version>
+			<scope>test</scope>
+		</dependency>
+
+
+
+		<dependency>
+			<groupId>commons-dbcp</groupId>
+			<artifactId>commons-dbcp</artifactId>
+			<version>20030825.184428</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-pool</groupId>
+			<artifactId>commons-pool</artifactId>
+			<version>20030825.183949</version>
+		</dependency>
+
+		<!-- Mina -->
+		<dependency>
+			<groupId>org.apache.directory.mina</groupId>
+			<artifactId>mina-filter-ssl</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>javax.validation</groupId>
+			<artifactId>validation-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-web</artifactId>
+
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-taglibs</artifactId>
+
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-config</artifactId>
+		</dependency>
+
+		
+
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-orm</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-aspects</artifactId>
+		</dependency>
+
+		<!-- Jackson JSON Mapper -->
+		<dependency>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-mapper-asl</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-core-asl</artifactId>
+		</dependency>
+
+
+		<dependency>
+			<groupId>joda-time</groupId>
+			<artifactId>joda-time</artifactId>
+			<version>1.6.2</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+
+
+		
+
+		<dependency>
+			<artifactId>xbean-spring</artifactId>
+			<groupId>org.apache.xbean</groupId>
+			<version>3.7</version>
+			<exclusions>
+				<exclusion>
+					<artifactId>commons-logging</artifactId>
+					<groupId>commons-logging</groupId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		<!-- Hibernate -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-validator</artifactId>
+
+		</dependency>
+		<!-- CCC -->
+		<dependency>
+			<groupId>com.ccc.cccframework</groupId>
+			<artifactId>ccm-core</artifactId>
+		</dependency>
+
+
+
+
+		<dependency>
+			<groupId>com.ccc.cccframework</groupId>
+			<artifactId>webapp-concurrency</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>com.ccc</groupId>
+			<artifactId>ccc-webapp-commons</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.ccc</groupId>
+			<artifactId>ccc-users</artifactId>
+
+		</dependency>
+		<dependency>
+			<groupId>com.ccc</groupId>
+			<artifactId>ccc-util</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>com.ccc</groupId>
+			<artifactId>springclient</artifactId>
+		</dependency>
+
+		<!-- RabbitMQ -->
+
+		<dependency>
+			<groupId>org.springframework.amqp</groupId>
+			<artifactId>spring-rabbit</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.amqp</groupId>
+			<artifactId>spring-amqp</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.ccc.cccframework</groupId>
+			<artifactId>ccm-rabbitmq</artifactId>
+		</dependency>
+
+		<!-- Validator -->
+		<dependency>
+			<groupId>commons-validator</groupId>
+			<artifactId>commons-validator</artifactId>
+		</dependency>
+		<!-- Needed for validator -->
+		<dependency>
+			<groupId>oro</groupId>
+			<artifactId>oro</artifactId>
+		</dependency>
+		<!-- Spring -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jdbc</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-core</artifactId>
+		</dependency>
+
+		<!-- CCC -->
+		<dependency>
+			<groupId>com.ccc.mail</groupId>
+			<artifactId>mailmvc</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>com.ccc.mail</groupId>
+			<artifactId>mail-core</artifactId>
+			
+		</dependency>
+
+		<dependency>
+			<groupId>com.ccc</groupId>
+			<artifactId>ccc-jndi</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.ccc.cccframework</groupId>
+			<artifactId>ccm-core</artifactId>
+		</dependency>
+
+
+		<!-- Camel -->
+		<dependency>
+			<groupId>org.apache.camel</groupId>
+			<artifactId>camel-quickfix</artifactId>
+
+		</dependency>
+		<dependency>
+			<groupId>javassist</groupId>
+			<artifactId>javassist</artifactId>
+			<version>3.12.1.GA</version>
+		</dependency>
+
+		<!-- Bug4j -->
+		<dependency>
+			<groupId>org.bug4j</groupId>
+			<artifactId>bug4j</artifactId>
+		</dependency>
+		<!-- Apache commons -->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>commons-lang</groupId>
+			<artifactId>commons-lang</artifactId>
+		</dependency>
+
+
+		<dependency>
+			<groupId>commons-collections</groupId>
+			<artifactId>commons-collections</artifactId>
+			<version>3.2.1</version>
+		</dependency>
+		<!-- MySQL -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+		</dependency>
+
+
+
+		<!-- Google -->
+		<dependency>
+			<groupId>com.google.api.client</groupId>
+			<artifactId>google-api-client-apache</artifactId>
+			<version>1.2.3-alpha</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.api.client</groupId>
+			<artifactId>google-api-client-json</artifactId>
+			<version>1.2.3-alpha</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.googlecode</groupId>
+			<artifactId>google-api-translate-java</artifactId>
+			<version>0.92</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.1</version>
+		</dependency>
+		<dependency>
+			<groupId>javax.transaction</groupId>
+			<artifactId>jta</artifactId>
+			<version>1.1</version>
+		</dependency>
+	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.5.1</version>
+				<configuration>
+				<target>1.6</target>
+				<source>1.6</source>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>

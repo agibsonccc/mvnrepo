@@ -1,0 +1,24 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:25:24 EST 2013
+default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357262267871
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact commons-io\:commons-io\:jar\:2.1 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/commons-io/commons-io/2.1/commons-io-2.1.jar
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact commons-io\:commons-io\:jar\:2.1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/commons-io/commons-io/2.1/commons-io-2.1.jar
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261243881
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357262255939
+http\://people.apache.org/~rawson/repo/.lastUpdated=1357262724524
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261254902
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact commons-io\:commons-io\:jar\:2.1 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/commons-io/commons-io/2.1/commons-io-2.1.jar
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218883
+http\://download.java.net/maven/2/.lastUpdated=1357262723929
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact commons-io\:commons-io\:jar\:2.1 from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public-jboss/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public-jboss/commons-io/commons-io/2.1/commons-io-2.1.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-io\:commons-io\:jar\:2.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/commons-io/commons-io/2.1/commons-io-2.1.jar
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231011
+http\://download.java.net/maven/2/.error=
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261231989
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261324630
+http\://people.apache.org/~rawson/repo/.error=
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact commons-io\:commons-io\:jar\:2.1 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/commons-io/commons-io/2.1/commons-io-2.1.jar
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact commons-io\:commons-io\:jar\:2.1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/commons-io/commons-io/2.1/commons-io-2.1.jar
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact commons-io\:commons-io\:jar\:2.1 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/commons-io/commons-io/2.1/commons-io-2.1.jar
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357261316861
+https\://maven.java.net/content/repositories/releases/.error=

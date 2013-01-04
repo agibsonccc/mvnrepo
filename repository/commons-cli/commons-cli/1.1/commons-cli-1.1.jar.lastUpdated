@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:19:09 EST 2013
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218900
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231028
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262337828
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262305409
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact commons-cli\:commons-cli\:jar\:1.1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/commons-cli/commons-cli/1.1/commons-cli-1.1.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357262305127
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242597
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact commons-cli\:commons-cli\:jar\:1.1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/commons-cli/commons-cli/1.1/commons-cli-1.1.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-cli\:commons-cli\:jar\:1.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.1/commons-cli-1.1.jar
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact commons-cli\:commons-cli\:jar\:1.1 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/commons-cli/commons-cli/1.1/commons-cli-1.1.jar
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357262349822
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact commons-cli\:commons-cli\:jar\:1.1 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/commons-cli/commons-cli/1.1/commons-cli-1.1.jar
+https\://maven.java.net/content/repositories/releases/.error=

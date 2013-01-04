@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:23:12 EST 2013
+http\://repo.springsource.org/libs-snapshot/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-impl\:pom\:2.2.5 from/to spring-test-mvc (http\://repo.springsource.org/libs-snapshot/)\: Access denied to http\://repo.springsource.org/libs-snapshot/com/sun/xml/bind/jaxb-impl/2.2.5/jaxb-impl-2.2.5.pom. Error code 401, Unauthorized
+http\://maven.vaadin.com/vaadin-addons/.error=
+http\://svn.codespot.com/a/apache-extras.org/camel-extra/maven2/releases/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357262592925
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262588285
+https\://repository.apache.org/content/repositories/snapshots/.error=
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262590004
+http\://www.gntforex.com\:8347/nexus/content/repositories/CCC/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1357262590115
+http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1357262588173
+http\://svn.codespot.com/a/apache-extras.org/camel-extra/maven2/releases/.lastUpdated=1357262588452
+http\://maven.springframework.org/milestone/.error=
+http\://www.gntforex.com\:8347/nexus/content/repositories/CCC/.lastUpdated=1357262588527
+default-http\://repo.springsource.org/libs-snapshot/.lastUpdated=1357262588788

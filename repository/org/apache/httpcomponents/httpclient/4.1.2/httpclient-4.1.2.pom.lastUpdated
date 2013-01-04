@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 20:14:36 EST 2013
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261383977
+http\://cescoffier.github.com/maven-play2-plugin/maven/release/.lastUpdated=1357262076415
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261395519
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:pom\:4.1.2 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.pom
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:pom\:4.1.2 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.pom
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261415044
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261427817
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:pom\:4.1.2 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.pom
+http\://cescoffier.github.com/maven-play2-plugin/maven/release/.error=
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357261412808
+https\://maven.java.net/content/repositories/releases/.error=
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:pom\:4.1.2 from/to spring-milestone (http\://maven.springframework.org/milestone)\: null to http\://maven.springframework.org/milestone/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2.pom
