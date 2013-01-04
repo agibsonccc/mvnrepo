@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:36:11 EST 2013
+#Thu Jan 03 21:21:00 EST 2013
 jsoup-1.7.1.jar>central=
 jsoup-1.7.1.pom>central=
+jsoup-1.7.1-javadoc.jar>central=
+jsoup-1.7.1-sources.jar>central=

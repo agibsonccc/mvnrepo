@@ -1,10 +1,14 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:12:24 EST 2013
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357261943229
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261941136
+#Thu Jan 03 21:39:19 EST 2013
+http\://cescoffier.github.com/maven-play2-plugin/maven/release/.lastUpdated=1357267159380
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357261943229
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261943006
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357267159270
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261941136
 http\://maven.springframework.org/milestone/.lastUpdated=1357261944895
 http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-ext\:pom\:1.7 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/xmlgraphics/batik-ext/1.7/batik-ext-1.7.pom
+http\://cescoffier.github.com/maven-play2-plugin/maven/release/.error=
 http\://maven.springframework.org/milestone/.error=
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261943006
 https\://repository.apache.org/content/groups/snapshots/.error=

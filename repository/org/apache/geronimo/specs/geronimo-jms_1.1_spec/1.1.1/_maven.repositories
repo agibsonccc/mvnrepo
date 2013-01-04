@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:07:04 EST 2013
+#Thu Jan 03 21:05:38 EST 2013
 geronimo-jms_1.1_spec-1.1.1.jar>central=
 geronimo-jms_1.1_spec-1.1.1.pom>central=
+geronimo-jms_1.1_spec-1.1.1-javadoc.jar>central=
+geronimo-jms_1.1_spec-1.1.1-sources.jar>central=

@@ -1,4 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:34:09 EST 2013
+#Thu Jan 03 21:42:03 EST 2013
+spring-rabbit-1.0.0.RELEASE-javadoc.jar>spring-test-mvc=
 spring-rabbit-1.0.0.RELEASE.jar>central=
 spring-rabbit-1.0.0.RELEASE.pom>central=
+spring-rabbit-1.0.0.RELEASE-javadoc.jar>central=
+spring-rabbit-1.0.0.RELEASE-sources.jar>central=
+spring-rabbit-1.0.0.RELEASE-sources.jar>spring-test-mvc=

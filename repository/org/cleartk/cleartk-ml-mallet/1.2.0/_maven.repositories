@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 19:59:06 EST 2013
+#Thu Jan 03 21:22:02 EST 2013
 cleartk-ml-mallet-1.2.0.jar>central=
 cleartk-ml-mallet-1.2.0.pom>central=
+cleartk-ml-mallet-1.2.0-javadoc.jar>central=
+cleartk-ml-mallet-1.2.0-sources.jar>central=

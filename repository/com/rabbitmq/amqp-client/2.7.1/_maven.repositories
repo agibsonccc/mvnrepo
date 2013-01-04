@@ -1,3 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:07:12 EST 2013
+#Thu Jan 03 21:08:21 EST 2013
+amqp-client-2.7.1-sources.jar>central=
+amqp-client-2.7.1-javadoc.jar>central=
+amqp-client-2.7.1.jar>central=
 amqp-client-2.7.1.pom>central=

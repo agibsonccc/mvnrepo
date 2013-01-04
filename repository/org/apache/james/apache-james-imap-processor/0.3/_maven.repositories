@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:33:55 EST 2013
+#Thu Jan 03 21:03:38 EST 2013
 apache-james-imap-processor-0.3.jar>central=
 apache-james-imap-processor-0.3.pom>central=
+apache-james-imap-processor-0.3-javadoc.jar>central=
+apache-james-imap-processor-0.3-sources.jar>central=

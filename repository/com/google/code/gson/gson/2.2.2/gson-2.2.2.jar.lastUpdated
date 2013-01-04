@@ -1,14 +1,19 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:34:41 EST 2013
-default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218880
-default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231008
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357263281548
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357263260288
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261231996
-https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:2.2.2 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar
-http\://maven.springframework.org/milestone/.lastUpdated=1357263281683
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:2.2.2 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar
+#Thu Jan 03 21:04:42 EST 2013
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:2.2.2 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar
+https\://repository.apache.org/content/repositories/snapshots/.error=
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357263260288
+http\://maven.springframework.org/milestone/.lastUpdated=1357265073372
 http\://maven.springframework.org/milestone/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357265082969
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218880
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357265072330
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231008
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357265073139
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357263281548
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357265073954
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:2.2.2 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar
 https\://repository.apache.org/content/groups/snapshots/.error=
+https\://maven.java.net/content/repositories/releases/.error=

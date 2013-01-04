@@ -1,16 +1,15 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:18:41 EST 2013
+#Thu Jan 03 21:04:47 EST 2013
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218899
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231027
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262292849
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262305409
-https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact oro\:oro\:jar\:2.0.8 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/oro/oro/2.0.8/oro-2.0.8.jar
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357265087249
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357265086139
+https\://repository.apache.org/content/repositories/snapshots/.error=
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357262321266
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242596
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357265086032
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357265086533
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact oro\:oro\:jar\:2.0.8 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/oro/oro/2.0.8/oro-2.0.8.jar
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact oro\:oro\:jar\:2.0.8 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/oro/oro/2.0.8/oro-2.0.8.jar
+http\://maven.springframework.org/milestone/.lastUpdated=1357265086254
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact oro\:oro\:jar\:2.0.8 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/oro/oro/2.0.8/oro-2.0.8.jar
+http\://maven.springframework.org/milestone/.error=
 https\://maven.java.net/content/repositories/releases/.error=
-http\://maven.springframework.org/milestone/.error=Could not transfer artifact oro\:oro\:jar\:2.0.8 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/oro/oro/2.0.8/oro-2.0.8.jar
-default-http\://maven.springframework.org/milestone/.lastUpdated=1357262317849

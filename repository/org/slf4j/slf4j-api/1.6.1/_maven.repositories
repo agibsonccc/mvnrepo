@@ -1,3 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 19:59:10 EST 2013
+#Thu Jan 03 21:43:21 EST 2013
+slf4j-api-1.6.1-sources.jar>central=
+slf4j-api-1.6.1-javadoc.jar>central=
+slf4j-api-1.6.1-sources.jar>springtestmvc=
 slf4j-api-1.6.1.pom>central=

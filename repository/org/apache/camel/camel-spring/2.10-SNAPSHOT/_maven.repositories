@@ -1,3 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:23:18 EST 2013
+#Thu Jan 03 21:13:32 EST 2013
 camel-spring-2.10-SNAPSHOT.pom>camel-snapshots=
+camel-spring-2.10-SNAPSHOT-javadoc.jar>camel-snapshots=
+camel-spring-2.10-SNAPSHOT-sources.jar>camel-snapshots=

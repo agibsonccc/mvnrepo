@@ -1,11 +1,18 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:22:42 EST 2013
+#Thu Jan 03 21:06:47 EST 2013
 http\://maven.vaadin.com/vaadin-addons/.error=
 http\://svn.codespot.com/a/apache-extras.org/camel-extra/maven2/releases/.error=
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262561384
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357265207748
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357265207292
+https\://repository.apache.org/content/repositories/snapshots/.error=
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357265207187
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357265207670
 http\://www.gntforex.com\:8347/nexus/content/repositories/CCC/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1357265207390
 http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1357262561279
 http\://repo.springsource.org/libs-snapshot/.lastUpdated=1357262562070
+http\://maven.springframework.org/milestone/.error=
 http\://svn.codespot.com/a/apache-extras.org/camel-extra/maven2/releases/.lastUpdated=1357262561539
+https\://maven.java.net/content/repositories/releases/.error=
 http\://www.gntforex.com\:8347/nexus/content/repositories/CCC/.lastUpdated=1357262561613

@@ -1,12 +1,22 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:19:30 EST 2013
-default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218903
-default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231031
-default-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1357262360622
-default-https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1357262370677
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242601
-https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
-https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to jboss-deprecated (https\://repository.jboss.org/nexus/content/repositories/deprecated/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/deprecated/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+#Thu Jan 03 21:48:19 EST 2013
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+default-https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1357262370677
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357267556151
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to jboss-deprecated (https\://repository.jboss.org/nexus/content/repositories/deprecated/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/deprecated/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+default-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1357262360622
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357267567333
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218903
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231031
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357267688860
+http\://repository.springsource.com/maven/bundles/external/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to com.springsource.repository.bundles.external (http\://repository.springsource.com/maven/bundles/external)\: connection timed out to http\://repository.springsource.com/maven/bundles/external/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
 http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to jboss-public-repository-group (http\://repository.jboss.org/nexus/content/groups/public/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357267545603
+default-http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357267699705
+default-http\://maven.springframework.org/milestone/.lastUpdated=1357267627828
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact xmlpull\:xmlpull\:jar\:1.1.3.1 from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar

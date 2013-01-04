@@ -1,26 +1,25 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:34:41 EST 2013
+#Thu Jan 03 21:03:20 EST 2013
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact dom4j\:dom4j\:jar\:1.6.1 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
 default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261812213
 https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact dom4j\:dom4j\:jar\:1.6.1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
 default-https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1357262370677
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261243883
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357264571656
 http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact dom4j\:dom4j\:jar\:1.6.1 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
 https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=Could not transfer artifact dom4j\:dom4j\:jar\:1.6.1 from/to jboss-deprecated (https\://repository.jboss.org/nexus/content/repositories/deprecated/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/deprecated/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
 default-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1357262360624
 https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357263265880
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261254905
-http\://maven.springframework.org/milestone/.error=Could not transfer artifact dom4j\:dom4j\:jar\:1.6.1 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+http\://maven.springframework.org/milestone/.lastUpdated=1357264587368
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357264581813
+http\://maven.springframework.org/milestone/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357265000648
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218904
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact dom4j\:dom4j\:jar\:1.6.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231032
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357263281497
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261231990
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261324632
 http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact dom4j\:dom4j\:jar\:1.6.1 from/to jboss-public-repository-group (http\://repository.jboss.org/nexus/content/groups/public/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact dom4j\:dom4j\:jar\:1.6.1 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact dom4j\:dom4j\:jar\:1.6.1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
 https\://repository.apache.org/content/groups/snapshots/.error=
-default-http\://maven.springframework.org/milestone/.lastUpdated=1357261316865
-https\://maven.java.net/content/repositories/releases/.error=
+default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357264970352
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact dom4j\:dom4j\:jar\:1.6.1 from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: null to https\://maven.java.net/content/repositories/releases/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar

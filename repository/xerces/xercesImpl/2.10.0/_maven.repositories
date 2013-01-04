@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:25:06 EST 2013
+#Thu Jan 03 21:40:05 EST 2013
 xercesImpl-2.10.0.jar>central=
 xercesImpl-2.10.0.pom>central=
+xercesImpl-2.10.0-javadoc.jar>central=
+xercesImpl-2.10.0-sources.jar>central=

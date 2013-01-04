@@ -1,18 +1,17 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:34:41 EST 2013
+#Thu Jan 03 21:03:22 EST 2013
 http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact org.springframework.security\:spring-security-crypto\:jar\:3.1.0.RELEASE from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/org/springframework/security/spring-security-crypto/3.1.0.RELEASE/spring-security-crypto-3.1.0.RELEASE.jar
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261243889
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357263281539
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357264571674
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357264581818
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261254910
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357263281539
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357265002755
 https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357263265886
 https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.springframework.security\:spring-security-crypto\:jar\:3.1.0.RELEASE from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/springframework/security/spring-security-crypto/3.1.0.RELEASE/spring-security-crypto-3.1.0.RELEASE.jar
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.springframework.security\:spring-security-crypto\:jar\:3.1.0.RELEASE from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/springframework/security/spring-security-crypto/3.1.0.RELEASE/spring-security-crypto-3.1.0.RELEASE.jar
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261324638
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261231993
+default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357264970366
 default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261812229
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.security\:spring-security-crypto\:jar\:3.1.0.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/3.1.0.RELEASE/spring-security-crypto-3.1.0.RELEASE.jar
-default-http\://maven.springframework.org/milestone/.lastUpdated=1357261316871
-http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.springframework.security\:spring-security-crypto\:jar\:3.1.0.RELEASE from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/springframework/security/spring-security-crypto/3.1.0.RELEASE/spring-security-crypto-3.1.0.RELEASE.jar
-https\://maven.java.net/content/repositories/releases/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1357264587378
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact org.springframework.security\:spring-security-crypto\:jar\:3.1.0.RELEASE from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/org/springframework/security/spring-security-crypto/3.1.0.RELEASE/spring-security-crypto-3.1.0.RELEASE.jar
+http\://maven.springframework.org/milestone/.error=
 https\://repository.apache.org/content/groups/snapshots/.error=

@@ -1,10 +1,19 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:17:24 EST 2013
-http\://google-gson.googlecode.com/svn/mavenrepo/.lastUpdated=1357262244104
-http\://google-gson.googlecode.com/svn/mavenrepo/.error=
-default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218879
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242586
-https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact xpp3\:xpp3\:jar\:1.1.4c from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/xpp3/xpp3/1.1.4c/xpp3-1.1.4c.jar
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact xpp3\:xpp3\:jar\:1.1.4c from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/xpp3/xpp3/1.1.4c/xpp3-1.1.4c.jar
+#Thu Jan 03 21:44:07 EST 2013
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact xpp3\:xpp3\:jar\:1.1.4c from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: No response received after 60000
+https\://repository.apache.org/content/repositories/snapshots/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1357267436930
+http\://maven.springframework.org/milestone/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357267447292
+default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218879
+http\://mavenrepo.google-api-java-client.googlecode.com/hg/.lastUpdated=1357267434888
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357267435880
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231007
+http\://google-gson.googlecode.com/svn/mavenrepo/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357267436717
+http\://mavenrepo.google-api-java-client.googlecode.com/hg/.error=
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357267435583
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
+http\://google-gson.googlecode.com/svn/mavenrepo/.lastUpdated=1357262244104
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact xpp3\:xpp3\:jar\:1.1.4c from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/xpp3/xpp3/1.1.4c/xpp3-1.1.4c.jar
+https\://maven.java.net/content/repositories/releases/.error=

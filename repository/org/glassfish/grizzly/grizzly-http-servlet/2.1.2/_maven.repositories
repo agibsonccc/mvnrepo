@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:34:11 EST 2013
+#Thu Jan 03 21:08:59 EST 2013
 grizzly-http-servlet-2.1.2.jar>central=
 grizzly-http-servlet-2.1.2.pom>central=
+grizzly-http-servlet-2.1.2-javadoc.jar>central=
+grizzly-http-servlet-2.1.2-sources.jar>central=

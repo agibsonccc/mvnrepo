@@ -1,3 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:14:20 EST 2013
+#Thu Jan 03 21:42:35 EST 2013
+jboss-logging-3.1.0.CR2-sources.jar>central=
+jboss-logging-3.1.0.CR2.jar>central=
 jboss-logging-3.1.0.CR2.pom>central=
+jboss-logging-3.1.0.CR2-sources.jar>springtestmvc=

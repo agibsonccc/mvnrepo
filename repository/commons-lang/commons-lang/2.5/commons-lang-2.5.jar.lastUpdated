@@ -1,26 +1,25 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:17:11 EST 2013
+#Thu Jan 03 21:03:22 EST 2013
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.5 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
 https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.5 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
 default-http\://repo1.maven.org/maven2/.lastUpdated=1357261334954
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261243890
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357264571675
 http\://repository.codehaus.org/.error=
 http\://maven.springframework.org/external/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.5 from/to spring external (http\://maven.springframework.org/external/)\: connection timed out to http\://maven.springframework.org/external/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
 http\://repository.codehaus.org/.lastUpdated=1357261360021
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261254910
-http\://maven.springframework.org/milestone/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.5 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
+http\://maven.springframework.org/milestone/.lastUpdated=1357264587380
+default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357264581819
+http\://maven.springframework.org/milestone/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357265002763
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218910
 default-http\://maven.springframework.org/external/.lastUpdated=1357261358835
 http\://download.java.net/maven/2/.lastUpdated=1357261336931
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.5 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231038
 http\://download.java.net/maven/2/.error=
 default-http\://maven.springframework.org/release/.lastUpdated=1357261348817
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261231993
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261324639
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.5 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.5 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
+default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357264970369
 http\://repo1.maven.org/maven2/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.5 from/to maven central repo (http\://repo1.maven.org/maven2/)\: connection timed out to http\://repo1.maven.org/maven2/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
-default-http\://maven.springframework.org/milestone/.lastUpdated=1357261316871
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.5 from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
 http\://maven.springframework.org/release/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.5 from/to spring release (http\://maven.springframework.org/release/)\: connection timed out to http\://maven.springframework.org/release/commons-lang/commons-lang/2.5/commons-lang-2.5.jar
-https\://maven.java.net/content/repositories/releases/.error=

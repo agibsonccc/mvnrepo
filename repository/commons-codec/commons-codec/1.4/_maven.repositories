@@ -1,3 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 19:59:31 EST 2013
+#Thu Jan 03 21:53:17 EST 2013
+commons-codec-1.4.jar>central=
 commons-codec-1.4.pom>central=
+commons-codec-1.4-javadoc.jar>central=
+commons-codec-1.4-sources.jar>central=

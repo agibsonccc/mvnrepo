@@ -1,20 +1,19 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:18:46 EST 2013
+#Thu Jan 03 21:04:42 EST 2013
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.apache.james\:apache-mailet\:jar\:2.4 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/org/apache/james/apache-mailet/2.4/apache-mailet-2.4.jar
-https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.james\:apache-mailet\:jar\:2.4 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/apache/james/apache-mailet/2.4/apache-mailet-2.4.jar
+https\://repository.apache.org/content/repositories/snapshots/.error=
 http\://people.apache.org/~rawson/repo/.lastUpdated=1357262326031
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262292843
-http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.apache.james\:apache-mailet\:jar\:2.4 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/apache/james/apache-mailet/2.4/apache-mailet-2.4.jar
+http\://maven.springframework.org/milestone/.lastUpdated=1357265073369
+http\://maven.springframework.org/milestone/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357265082967
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218896
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262305402
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357265072328
 http\://download.java.net/maven/2/.lastUpdated=1357262323957
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.james\:apache-mailet\:jar\:2.4 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/james/apache-mailet/2.4/apache-mailet-2.4.jar
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231025
 http\://download.java.net/maven/2/.error=
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242594
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357262321228
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357265073138
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357265073953
 http\://people.apache.org/~rawson/repo/.error=
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.james\:apache-mailet\:jar\:2.4 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/apache/james/apache-mailet/2.4/apache-mailet-2.4.jar
-default-http\://maven.springframework.org/milestone/.lastUpdated=1357262317843
 https\://maven.java.net/content/repositories/releases/.error=

@@ -1,6 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:36:41 EST 2013
+#Thu Jan 03 21:07:43 EST 2013
 hibernate-validator-4.0.0.GA-javadoc.jar>repository.jboss.org=
 hibernate-validator-4.0.0.GA.jar>repository.jboss.org=
 hibernate-validator-4.0.0.GA-sources.jar>repository.jboss.org=
+hibernate-validator-4.0.0.GA-javadoc.jar>central=
+hibernate-validator-4.0.0.GA-sources.jar>central=
 hibernate-validator-4.0.0.GA.pom>central=
