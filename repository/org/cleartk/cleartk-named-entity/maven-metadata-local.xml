@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.cleartk</groupId>
+  <artifactId>cleartk-named-entity</artifactId>
+  <versioning>
+    <versions>
+      <version>0.6.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130104000946</lastUpdated>
+  </versioning>
+</metadata>
