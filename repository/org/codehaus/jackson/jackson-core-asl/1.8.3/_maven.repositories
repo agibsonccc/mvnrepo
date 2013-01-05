@@ -1,5 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:08:16 EST 2013
+#Sat Jan 05 02:24:07 EST 2013
 jackson-core-asl-1.8.3.jar>central=
 jackson-core-asl-1.8.3.pom>central=
 jackson-core-asl-1.8.3-sources.jar>central=
+jackson-core-asl-1.8.3-javadoc.jar>bitbucket=
