@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-parent</artifactId>
   <version>28-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20121228.132044</timestamp>
-      <buildNumber>16</buildNumber>
+      <timestamp>20130106.022016</timestamp>
+      <buildNumber>17</buildNumber>
     </snapshot>
-    <lastUpdated>20121229084801</lastUpdated>
-    <snapshotVersions>
-      <snapshotVersion>
-        <classifier>site</classifier>
-        <extension>xml</extension>
-        <value>28-20121228.132044-16</value>
-        <updated>20121228132044</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>28-20121228.132044-16</value>
-        <updated>20121228132044</updated>
-      </snapshotVersion>
-    </snapshotVersions>
+    <lastUpdated>20130106022016</lastUpdated>
   </versioning>
 </metadata>
