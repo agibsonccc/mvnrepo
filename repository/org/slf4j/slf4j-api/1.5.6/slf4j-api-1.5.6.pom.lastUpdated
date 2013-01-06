@@ -1,8 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:10:01 EST 2013
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261801813
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:1.5.6 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261787817
-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261788958
+#Sat Jan 05 16:52:36 EST 2013
 http\://cleartk.googlecode.com/svn/repo/.error=
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:1.5.6 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261801813
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357422756905
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:1.5.6 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1357422755815
+http\://maven.springframework.org/milestone/.lastUpdated=1357422756816
+http\://maven.repository.redhat.com/techpreview/all/.error=
+http\://maven.springframework.org/milestone/.error=
+http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261788958
