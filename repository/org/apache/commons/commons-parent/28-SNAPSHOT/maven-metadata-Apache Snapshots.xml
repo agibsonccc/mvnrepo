@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>org.apache.commons</groupId>
   <artifactId>commons-parent</artifactId>
   <version>28-SNAPSHOT</version>
@@ -8,6 +8,19 @@
       <timestamp>20130106.022016</timestamp>
       <buildNumber>17</buildNumber>
     </snapshot>
-    <lastUpdated>20130106022016</lastUpdated>
+    <lastUpdated>20130106084650</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>site</classifier>
+        <extension>xml</extension>
+        <value>28-20130106.022016-17</value>
+        <updated>20130106022016</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>28-20130106.022016-17</value>
+        <updated>20130106022016</updated>
+      </snapshotVersion>
+    </snapshotVersions>
   </versioning>
 </metadata>
