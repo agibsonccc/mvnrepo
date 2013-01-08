@@ -1,4 +1,3 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jan 08 12:46:51 EST 2013
-textanalytics-core-0.0.2.pom>=
-textanalytics-core-0.0.2.jar>=
+#Tue Jan 08 12:46:36 EST 2013
+commons-parent-27.pom>central=

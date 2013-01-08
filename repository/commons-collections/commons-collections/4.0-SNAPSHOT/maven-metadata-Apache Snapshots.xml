@@ -1,13 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>commons-collections</groupId>
   <artifactId>commons-collections</artifactId>
   <version>4.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130107.172210</timestamp>
-      <buildNumber>112</buildNumber>
+      <timestamp>20130107.182318</timestamp>
+      <buildNumber>113</buildNumber>
     </snapshot>
-    <lastUpdated>20130107172210</lastUpdated>
+    <lastUpdated>20130108094322</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>bin</classifier>
+        <extension>tar.gz</extension>
+        <value>4.0-20130107.182318-113</value>
+        <updated>20130107182318</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>bin</classifier>
+        <extension>zip</extension>
+        <value>4.0-20130107.182318-113</value>
+        <updated>20130107182318</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>4.0-20130107.182318-113</value>
+        <updated>20130107182318</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>4.0-20130107.182318-113</value>
+        <updated>20130107182318</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>src</classifier>
+        <extension>tar.gz</extension>
+        <value>4.0-20130107.182318-113</value>
+        <updated>20130107182318</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>src</classifier>
+        <extension>zip</extension>
+        <value>4.0-20130107.182318-113</value>
+        <updated>20130107182318</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>test-sources</classifier>
+        <extension>jar</extension>
+        <value>4.0-20130107.182318-113</value>
+        <updated>20130107182318</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>4.0-20130107.182318-113</value>
+        <updated>20130107182318</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.0-20130107.182318-113</value>
+        <updated>20130107182318</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.0-20130107.182318-113</value>
+        <updated>20130107182318</updated>
+      </snapshotVersion>
+    </snapshotVersions>
   </versioning>
 </metadata>
