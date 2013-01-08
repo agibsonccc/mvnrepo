@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Jan 04 17:29:28 EST 2013
+#Tue Jan 08 00:30:38 EST 2013
 jtidy-r938.jar>central=
 jtidy-r938.pom>central=
+jtidy-r938-javadoc.jar>central=
+jtidy-r938-sources.jar>central=

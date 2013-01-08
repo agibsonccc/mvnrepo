@@ -1,14 +1,15 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 22:13:39 EST 2013
+#Tue Jan 08 01:04:57 EST 2013
 default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357269172670
 default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357269184839
 default-http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357269219878
+http\://repo.maven.apache.org/maven2/.lastUpdated=1357625097362
 https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact com.thoughtworks.xstream\:xstream\:jar\:1.4.2 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact com.thoughtworks.xstream\:xstream\:jar\:1.4.2 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1357622875611
 https\://maven.java.net/content/repositories/releases/.lastUpdated=1357269162238
 http\://repository.springsource.com/maven/bundles/external/.error=Could not transfer artifact com.thoughtworks.xstream\:xstream\:jar\:1.4.2 from/to com.springsource.repository.bundles.external (http\://repository.springsource.com/maven/bundles/external)\: connection timed out to http\://repository.springsource.com/maven/bundles/external/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357269207879
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.thoughtworks.xstream\:xstream\:jar\:1.4.2 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
 default-http\://maven.springframework.org/milestone/.lastUpdated=1357269195879
 https\://maven.java.net/content/repositories/releases/.error=
 http\://maven.springframework.org/milestone/.error=Could not transfer artifact com.thoughtworks.xstream\:xstream\:jar\:1.4.2 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=
