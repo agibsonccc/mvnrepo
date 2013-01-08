@@ -106,6 +106,10 @@
 		</dependency>
 
 
+		<dependency>
+			<groupId>jaws</groupId>
+			<artifactId>jaws</artifactId>
+		</dependency>
 	</dependencies>
 	<version>0.0.2</version>
 </project>
