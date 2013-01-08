@@ -1,0 +1,26 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 08 13:40:01 EST 2013
+http\://maven.springframework.org/external/.lastUpdated=1357670398855
+http\://maven.springframework.org/snapshot/.lastUpdated=1357670400967
+default-http\://repo1.maven.org/eclipse/.lastUpdated=1357670395533
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1357670397124
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357670396961
+http\://maven.springframework.org/osgi/.error=
+http\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.lastUpdated=1357670400870
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357670370639
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357670360445
+http\://maven.springframework.org/external/.error=
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.springframework.osgi\:spring-osgi-io\:jar\:1.2.1 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/springframework/osgi/spring-osgi-io/1.2.1/spring-osgi-io-1.2.1.jar
+http\://maven.springframework.org/milestone/.lastUpdated=1357670398962
+http\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.error=
+http\://maven.springframework.org/milestone/.error=
+http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.springframework.osgi\:spring-osgi-io\:jar\:1.2.1 from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/org/springframework/osgi/spring-osgi-io/1.2.1/spring-osgi-io-1.2.1.jar
+http\://maven.springframework.org/snapshot/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.osgi\:spring-osgi-io\:jar\:1.2.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/springframework/osgi/spring-osgi-io/1.2.1/spring-osgi-io-1.2.1.jar
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357670385045
+http\://repository.springsource.com/maven/bundles/external/.error=
+http\://maven.springframework.org/release/.lastUpdated=1357670398759
+http\://maven.springframework.org/osgi/.lastUpdated=1357670401062
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.springframework.osgi\:spring-osgi-io\:jar\:1.2.1 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/springframework/osgi/spring-osgi-io/1.2.1/spring-osgi-io-1.2.1.jar
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://maven.springframework.org/release/.error=

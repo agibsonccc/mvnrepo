@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 08 13:41:03 EST 2013
+http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.apache.activemq\:activeio-core\:jar\:3.1.2 from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/org/apache/activemq/activeio-core/3.1.2/activeio-core-3.1.2.jar
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357670360445
+http\://repo.fusesource.com/maven2/.error=Could not transfer artifact org.apache.activemq\:activeio-core\:jar\:3.1.2 from/to fusesource.m2 (http\://repo.fusesource.com/maven2)\: No response received after 60000
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.apache.activemq\:activeio-core\:jar\:3.1.2 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/apache/activemq/activeio-core/3.1.2/activeio-core-3.1.2.jar
+http\://repository.springsource.com/maven/bundles/external/.error=
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357670385045
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357670370639
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.activemq\:activeio-core\:jar\:3.1.2 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/activemq/activeio-core/3.1.2/activeio-core-3.1.2.jar
+default-http\://repo.fusesource.com/maven2/.lastUpdated=1357670461951
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357670463916
+default-http\://repo1.maven.org/eclipse/.lastUpdated=1357670395533
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.apache.activemq\:activeio-core\:jar\:3.1.2 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/apache/activemq/activeio-core/3.1.2/activeio-core-3.1.2.jar

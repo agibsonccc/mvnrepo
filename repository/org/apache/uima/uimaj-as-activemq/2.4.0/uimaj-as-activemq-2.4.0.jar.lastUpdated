@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 08 13:39:45 EST 2013
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357670385040
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.apache.uima\:uimaj-as-activemq\:jar\:2.4.0 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/apache/uima/uimaj-as-activemq/2.4.0/uimaj-as-activemq-2.4.0.jar
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357670360439
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.uima\:uimaj-as-activemq\:jar\:2.4.0 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/uima/uimaj-as-activemq/2.4.0/uimaj-as-activemq-2.4.0.jar
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357670370521
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.apache.uima\:uimaj-as-activemq\:jar\:2.4.0 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/apache/uima/uimaj-as-activemq/2.4.0/uimaj-as-activemq-2.4.0.jar

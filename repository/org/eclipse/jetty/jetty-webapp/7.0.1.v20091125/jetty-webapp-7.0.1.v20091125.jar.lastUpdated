@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 08 13:41:03 EST 2013
+http\://repo.fusesource.com/maven2/.lastUpdated=1357670461952
+http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.eclipse.jetty\:jetty-webapp\:jar\:7.0.1.v20091125 from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/org/eclipse/jetty/jetty-webapp/7.0.1.v20091125/jetty-webapp-7.0.1.v20091125.jar
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357670360446
+http\://repo.fusesource.com/maven2/.error=
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.eclipse.jetty\:jetty-webapp\:jar\:7.0.1.v20091125 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/eclipse/jetty/jetty-webapp/7.0.1.v20091125/jetty-webapp-7.0.1.v20091125.jar
+http\://repository.springsource.com/maven/bundles/external/.error=
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357670385045
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357670370639
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.eclipse.jetty\:jetty-webapp\:jar\:7.0.1.v20091125 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-webapp/7.0.1.v20091125/jetty-webapp-7.0.1.v20091125.jar
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357670463920
+default-http\://repo1.maven.org/eclipse/.lastUpdated=1357670395534
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.eclipse.jetty\:jetty-webapp\:jar\:7.0.1.v20091125 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/eclipse/jetty/jetty-webapp/7.0.1.v20091125/jetty-webapp-7.0.1.v20091125.jar

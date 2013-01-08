@@ -1,0 +1,18 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 08 13:43:26 EST 2013
+http\://repo.fusesource.com/maven2/.lastUpdated=1357670605775
+http\://repo1.maven.org/eclipse/.error=Could not transfer artifact junit\:junit\:pom\:4.5 from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/junit/junit/4.5/junit-4.5.pom
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357670528527
+http\://repo.fusesource.com/maven2/.error=
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact junit\:junit\:pom\:4.5 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/junit/junit/4.5/junit-4.5.pom
+http\://repository.springsource.com/maven/bundles/external/.error=
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357670515076
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1357670504772
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357670500781
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact junit\:junit\:pom\:4.5 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/junit/junit/4.5/junit-4.5.pom
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.error=
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1357670501824
+http\://maven.repository.redhat.com/techpreview/all/.error=
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357670606888
+default-http\://repo1.maven.org/eclipse/.lastUpdated=1357670540784
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact junit\:junit\:pom\:4.5 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/junit/junit/4.5/junit-4.5.pom

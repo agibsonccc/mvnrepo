@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 08 13:39:55 EST 2013
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357670385040
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.apache.activemq\:activemq-jaas\:jar\:5.4.1 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/apache/activemq/activemq-jaas/5.4.1/activemq-jaas-5.4.1.jar
+http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.apache.activemq\:activemq-jaas\:jar\:5.4.1 from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/org/apache/activemq/activemq-jaas/5.4.1/activemq-jaas-5.4.1.jar
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357670360439
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357670370522
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.activemq\:activemq-jaas\:jar\:5.4.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/activemq/activemq-jaas/5.4.1/activemq-jaas-5.4.1.jar
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.apache.activemq\:activemq-jaas\:jar\:5.4.1 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/apache/activemq/activemq-jaas/5.4.1/activemq-jaas-5.4.1.jar
+default-http\://repo1.maven.org/eclipse/.lastUpdated=1357670395518

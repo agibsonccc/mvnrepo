@@ -1,0 +1,11 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 08 13:41:02 EST 2013
+http\://repo.fusesource.com/maven2/.lastUpdated=1357670462006
+http\://repo1.maven.org/eclipse/.error=Could not transfer artifact commons-codec\:commons-codec\:jar\:1.2 from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/commons-codec/commons-codec/1.2/commons-codec-1.2.jar
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357670360447
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact commons-codec\:commons-codec\:jar\:1.2 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/commons-codec/commons-codec/1.2/commons-codec-1.2.jar
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357670385046
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357670370640
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-codec\:commons-codec\:jar\:1.2 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.jar
+default-http\://repo1.maven.org/eclipse/.lastUpdated=1357670395535
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact commons-codec\:commons-codec\:jar\:1.2 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/commons-codec/commons-codec/1.2/commons-codec-1.2.jar
