@@ -7,6 +7,8 @@
 		<version>0.0.1</version>
 	</parent>
 	<artifactId>textanalytics-core</artifactId>
+	<version>0.0.2</version>
+
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
@@ -118,6 +120,6 @@
 			<groupId>jaws</groupId>
 			<artifactId>jaws</artifactId>
 		</dependency>
+
 	</dependencies>
-	<version>0.0.2</version>
 </project>

@@ -1,12 +1,12 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jan 08 13:39:56 EST 2013
+#Tue Jan 08 21:18:19 EST 2013
 http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.0.3.RELEASE from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/org/springframework/spring-webmvc/3.0.3.RELEASE/spring-webmvc-3.0.3.RELEASE.jar
-default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357670360443
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357697864748
 https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.0.3.RELEASE from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/springframework/spring-webmvc/3.0.3.RELEASE/spring-webmvc-3.0.3.RELEASE.jar
 http\://repository.springsource.com/maven/bundles/external/.error=
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357670385043
-default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357670370637
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357697886992
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357697875478
 http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.0.3.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.3.RELEASE/spring-webmvc-3.0.3.RELEASE.jar
 http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357670396956
-default-http\://repo1.maven.org/eclipse/.lastUpdated=1357670395531
+default-http\://repo1.maven.org/eclipse/.lastUpdated=1357697899033
 https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:3.0.3.RELEASE from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/springframework/spring-webmvc/3.0.3.RELEASE/spring-webmvc-3.0.3.RELEASE.jar

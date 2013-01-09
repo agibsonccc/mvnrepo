@@ -1,10 +1,10 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jan 08 13:39:55 EST 2013
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357670385047
+#Tue Jan 08 21:18:19 EST 2013
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357697887001
 https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-jms_1.1_spec\:jar\:1.1 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.1/geronimo-jms_1.1_spec-1.1.jar
 http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-jms_1.1_spec\:jar\:1.1 from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.1/geronimo-jms_1.1_spec-1.1.jar
-default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357670360447
-default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357670370641
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357697864762
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357697875485
 http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-jms_1.1_spec\:jar\:1.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.1/geronimo-jms_1.1_spec-1.1.jar
 https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-jms_1.1_spec\:jar\:1.1 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.1/geronimo-jms_1.1_spec-1.1.jar
-default-http\://repo1.maven.org/eclipse/.lastUpdated=1357670395536
+default-http\://repo1.maven.org/eclipse/.lastUpdated=1357697899040

@@ -1,14 +1,14 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jan 08 13:41:03 EST 2013
+#Tue Jan 08 21:18:19 EST 2013
+http\://repo.fusesource.com/maven2/.lastUpdated=1357697826362
 http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.apache.velocity\:velocity\:jar\:1.6.2 from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/org/apache/velocity/velocity/1.6.2/velocity-1.6.2.jar
-default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357670360447
-http\://repo.fusesource.com/maven2/.error=Could not transfer artifact org.apache.velocity\:velocity\:jar\:1.6.2 from/to fusesource.m2 (http\://repo.fusesource.com/maven2)\: No response received after 60000
+default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357697864761
+http\://repo.fusesource.com/maven2/.error=
 https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.apache.velocity\:velocity\:jar\:1.6.2 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/apache/velocity/velocity/1.6.2/velocity-1.6.2.jar
 http\://repository.springsource.com/maven/bundles/external/.error=
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357670385046
-default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357670370640
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357697887001
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357697875484
 http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.velocity\:velocity\:jar\:1.6.2 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.6.2/velocity-1.6.2.jar
-default-http\://repo.fusesource.com/maven2/.lastUpdated=1357670462024
+default-http\://repo1.maven.org/eclipse/.lastUpdated=1357697899039
 http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357670463923
-default-http\://repo1.maven.org/eclipse/.lastUpdated=1357670395535
 https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.apache.velocity\:velocity\:jar\:1.6.2 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/apache/velocity/velocity/1.6.2/velocity-1.6.2.jar
