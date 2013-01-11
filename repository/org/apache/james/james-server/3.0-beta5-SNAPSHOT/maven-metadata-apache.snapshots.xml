@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.james</groupId>
+  <artifactId>james-server</artifactId>
+  <version>3.0-beta5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130110.113454</timestamp>
+      <buildNumber>847</buildNumber>
+    </snapshot>
+    <lastUpdated>20130110113454</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.0-beta5-20130110.113454-847</value>
+        <updated>20130110113454</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>site</classifier>
+        <extension>xml</extension>
+        <value>3.0-beta5-20130110.113454-847</value>
+        <updated>20130110113454</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>3.0-beta5-20130110.113454-847</value>
+        <updated>20130110113454</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

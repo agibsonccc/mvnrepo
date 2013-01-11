@@ -121,5 +121,15 @@
 			<artifactId>jaws</artifactId>
 		</dependency>
 
+		<dependency>
+			<groupId>org.cleartk</groupId>
+			<artifactId>cleartk-ml-opennlp-maxent</artifactId>
+			<version>1.1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.cleartk</groupId>
+			<artifactId>cleartk-opennlp-tools</artifactId>
+			<version>0.10.1</version>
+		</dependency>
 	</dependencies>
 </project>

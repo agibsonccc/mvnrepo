@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.kenai.nbpwr</groupId>
+        <artifactId>wrappers</artifactId>
+        <version>201002241900</version>
+    </parent>
+
+    <artifactId>javax-annotation</artifactId>
+    <packaging>nbm</packaging>
+    <version>1.3.7-201002241900</version>
+    <name>Wrappers - JSR 305</name>
+    <description>JSR 305</description>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.google.code.findbugs</groupId>
+            <artifactId>jsr305</artifactId>
+            <version>1.3.7</version>
+            <!-- WARNING: don't use 1.3.8, it has got a broken pom which brings is tons of useless stuff! -->
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>nbm-maven-plugin</artifactId>
+                <extensions>true</extensions>
+                <configuration>
+                    <publicPackages>
+                        <publicPackage>javax.annotation</publicPackage>
+                        <publicPackage>javax.annotation.concurrent</publicPackage>
+                        <publicPackage>javax.annotation.meta</publicPackage>
+                    </publicPackages>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
+
+
+
