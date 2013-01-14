@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.sussex.nlp</groupId>
+  <artifactId>jws</artifactId>
+  <versioning>
+    <release>beta-11</release>
+    <versions>
+      <version>beta-11</version>
+    </versions>
+    <lastUpdated>20130114062444</lastUpdated>
+  </versioning>
+</metadata>
