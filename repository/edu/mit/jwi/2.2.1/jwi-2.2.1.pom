@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>edu.mit</groupId>
+  <artifactId>jwi</artifactId>
+  <version>2.2.1</version>
+  <packaging>jar</packaging>
+
+  <name>JWI</name>
+  <description>The MIT Java Wordnet Interface</description>
+  <url>http://projects.csail.mit.edu/jwi/</url>
+
+  <licenses>
+    <license>
+      <name>Creative Commons Attribution-NonCommerical Version 3.0 Unported License</name>
+      <url>http://creativecommons.org/licenses/by-nc/3.0/legalcode</url>
+    </license>
+  </licenses>
+
+  <scm>
+    <url>http://projects.csail.mit.edu/jwi/download.php?f=edu.mit.jwi_2.2.1_src.zip</url>
+    <connection>http://projects.csail.mit.edu/jwi/download.php?f=edu.mit.jwi_2.2.1_src.zip</connection>
+  </scm>
+
+  <developers>
+    <developer>
+      <id>mark.finlayson</id>
+      <name>Mark Finlayson</name>
+      <email>markaf@alum.mit.edu</email>
+    </developer>
+  </developers>
+
+  <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+    <encoding>UTF-8</encoding>
+  </properties>
+
+  <build>
+    <sourceDirectory>${basedir}</sourceDirectory>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-gpg-plugin</artifactId>
+        <version>1.4</version>
+        <executions>
+          <execution>
+            <id>sign-artifacts</id>
+            <phase>verify</phase>
+            <goals>
+              <goal>sign</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+</project>
