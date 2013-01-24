@@ -187,5 +187,6 @@
 		<module>money-model</module>
 		<module>location-model</module>
 		<module>organization-model</module>
+		<module>relationextractionclassifier</module>
 	</modules>
 </project>

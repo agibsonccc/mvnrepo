@@ -163,5 +163,15 @@
 			<artifactId>ws4j</artifactId>
 			<version>1.0.0</version>
 		</dependency>
+		<dependency>
+			<groupId>org.apache.solr</groupId>
+			<artifactId>solr-solrj</artifactId>
+			<version>4.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.ccc.sendalyzeit</groupId>
+			<artifactId>relationextractionclassifier</artifactId>
+			<version>0.0.1</version>
+		</dependency>
 	</dependencies>
 </project>
