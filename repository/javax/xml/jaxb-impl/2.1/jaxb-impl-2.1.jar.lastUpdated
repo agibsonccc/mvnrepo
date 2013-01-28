@@ -1,8 +1,15 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:17:22 EST 2013
+#Thu Jan 24 13:06:18 EST 2013
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218908
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262242606
-https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact javax.xml\:jaxb-impl\:jar\:2.1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/javax/xml/jaxb-impl/2.1/jaxb-impl-2.1.jar
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.xml\:jaxb-impl\:jar\:2.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/javax/xml/jaxb-impl/2.1/jaxb-impl-2.1.jar
-http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact javax.xml\:jaxb-impl\:jar\:2.1 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/javax/xml/jaxb-impl/2.1/jaxb-impl-2.1.jar
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231037
+http\://repo.maven.apache.org/maven2/.lastUpdated=1359050778102
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1359050512592
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1359050515849
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1359050523831
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact javax.xml\:jaxb-impl\:jar\:2.1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/javax/xml/jaxb-impl/2.1/jaxb-impl-2.1.jar
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.error=
+http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact javax.xml\:jaxb-impl\:jar\:2.1 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/javax/xml/jaxb-impl/2.1/jaxb-impl-2.1.jar
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1359050520851
+http\://maven.repository.redhat.com/techpreview/all/.error=
+https\://repository.apache.org/content/groups/snapshots/.error=

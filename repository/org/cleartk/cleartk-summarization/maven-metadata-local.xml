@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.cleartk</groupId>
+  <artifactId>cleartk-summarization</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130128233254</lastUpdated>
+  </versioning>
+</metadata>
