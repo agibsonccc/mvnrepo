@@ -77,5 +77,10 @@
   	<artifactId>cleartk-test-util</artifactId>
   	<version>1.2.1</version>
   </dependency>
+  <dependency>
+  	<groupId>org.cleartk</groupId>
+  	<artifactId>cleartk-clearnlp</artifactId>
+  	<version>0.5.1-SNAPSHOT</version>
+  </dependency>
  </dependencies>
 </project>
