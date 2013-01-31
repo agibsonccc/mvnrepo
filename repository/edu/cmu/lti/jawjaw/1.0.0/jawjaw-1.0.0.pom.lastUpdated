@@ -1,12 +1,12 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jan 29 21:16:38 EST 2013
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1359498441135
-http\://repo.maven.apache.org/maven2/.lastUpdated=1359498449600
+#Wed Jan 30 22:07:11 EST 2013
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1359601629373
+http\://repo.maven.apache.org/maven2/.lastUpdated=1359601631946
 https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1359498441711
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1359601631197
 http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1359512198265
 http\://repo.maven.apache.org/maven2/.error=
 https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.error=
-https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1359512198108
 http\://maven.repository.redhat.com/techpreview/all/.error=
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1359512198108
 https\://repository.apache.org/content/groups/snapshots/.error=
