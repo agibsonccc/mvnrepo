@@ -1,7 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:24:51 EST 2013
+#Tue Feb 05 16:49:57 EST 2013
 http\://maven.vaadin.com/vaadin-addons/.error=
 http\://svn.codespot.com/a/apache-extras.org/camel-extra/maven2/releases/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1360100997106
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262689202
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
 http\://www.gntforex.com\:8347/nexus/content/repositories/CCC/.error=

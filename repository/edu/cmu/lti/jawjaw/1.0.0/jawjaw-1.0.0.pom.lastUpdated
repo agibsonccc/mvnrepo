@@ -1,12 +1,12 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Wed Jan 30 22:07:11 EST 2013
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1359601629373
-http\://repo.maven.apache.org/maven2/.lastUpdated=1359601631946
+#Mon Feb 04 00:19:20 EST 2013
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1359955086868
+http\://repo.maven.apache.org/maven2/.lastUpdated=1359955084197
 https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1359601631197
-http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1359512198265
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1359955083628
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1359955160221
 http\://repo.maven.apache.org/maven2/.error=
 https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.error=
 http\://maven.repository.redhat.com/techpreview/all/.error=
-https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1359512198108
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1359955084037
 https\://repository.apache.org/content/groups/snapshots/.error=
