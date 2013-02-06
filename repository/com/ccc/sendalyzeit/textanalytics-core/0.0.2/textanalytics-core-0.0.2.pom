@@ -8,7 +8,7 @@
 	</parent>
 	<artifactId>textanalytics-core</artifactId>
 	<version>0.0.2</version>
-    <repositories>
+	<repositories>
 		<repository>
 			<id>Apache Snapshots</id>
 			<url>https://repository.apache.org/content/groups/snapshots</url>
@@ -37,6 +37,12 @@
 		</dependencies>
 	</dependencyManagement>
 	<dependencies>
+		<dependency>
+			<groupId>net.sf.jgrapht</groupId>
+			<artifactId>jgrapht-core</artifactId>
+			<version>0.8.3-SNAPSHOT</version>
+
+		</dependency>
 		<dependency>
 			<groupId>edu.sussex.nlp</groupId>
 			<artifactId>jws</artifactId>
@@ -233,6 +239,11 @@
 			<groupId>org.cleartk</groupId>
 			<artifactId>cleartk-maltparser</artifactId>
 			<version>0.8.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.ccc.sendalyzeit</groupId>
+			<artifactId>textanalytics-api</artifactId>
+			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
 </project>
