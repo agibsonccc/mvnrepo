@@ -5,13 +5,5 @@
     <artifactId>textanalytics</artifactId>
     <version>0.0.1</version>
   </parent>
-  <artifactId>textanalytics-api</artifactId>
-  <name>API For Text analytics</name>
-  <dependencies>
-  	<dependency>
-  		<groupId>com.google.code.gson</groupId>
-  		<artifactId>gson</artifactId>
-  		<version>2.2.2</version>
-  	</dependency>
-  </dependencies>
+  <artifactId>questiondetectormodel</artifactId>
 </project>
