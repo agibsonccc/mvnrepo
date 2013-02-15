@@ -1,5 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:43:00 EST 2013
-netcdf-4.2-min-javadoc.jar>central=
-netcdf-4.2-min.pom>central=
+#Fri Feb 15 15:31:20 EST 2013
+netcdf-4.2-min.jar>central=
 netcdf-4.2-min-sources.jar>central=
+netcdf-4.2-min.pom>central=
+netcdf-4.2-min-javadoc.jar>central=
