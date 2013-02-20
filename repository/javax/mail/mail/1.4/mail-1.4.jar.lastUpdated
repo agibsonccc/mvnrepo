@@ -1,10 +1,13 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jan 08 21:18:19 EST 2013
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357697887003
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/javax/mail/mail/1.4/mail-1.4.jar
+#Mon Feb 18 21:50:09 EST 2013
 http\://repo1.maven.org/eclipse/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4 from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/javax/mail/mail/1.4/mail-1.4.jar
-default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357697864765
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1361242198363
+http\://repo.maven.apache.org/maven2/.lastUpdated=1361242209794
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1361242196740
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/javax/mail/mail/1.4/mail-1.4.jar
+http\://maven.springframework.org/milestone/.lastUpdated=1361242198771
 default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357697875486
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/javax/mail/mail/1.4/mail-1.4.jar
-https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/javax/mail/mail/1.4/mail-1.4.jar
+http\://maven.springframework.org/milestone/.error=
 default-http\://repo1.maven.org/eclipse/.lastUpdated=1357697899041
+https\://repository.apache.org/content/groups/snapshots/.error=

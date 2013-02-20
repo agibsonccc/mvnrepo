@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Feb 18 21:50:09 EST 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1361242209792
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1361242198362
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1361242198770
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1361242196739
+http\://maven.springframework.org/milestone/.error=
+https\://repository.apache.org/content/groups/snapshots/.error=
