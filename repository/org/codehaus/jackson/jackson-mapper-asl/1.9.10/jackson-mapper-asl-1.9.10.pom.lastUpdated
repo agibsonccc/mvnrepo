@@ -1,19 +1,20 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:15:53 EST 2013
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261984811
-http\://cescoffier.github.com/maven-play2-plugin/maven/release/.lastUpdated=1357262061070
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357261973009
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261971001
-https\://repository.apache.org/content/repositories/snapshots/.error=
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.codehaus.jackson\:jackson-mapper-asl\:pom\:1.9.10 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.pom
-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261987003
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261989258
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261969340
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.codehaus.jackson\:jackson-mapper-asl\:pom\:1.9.10 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.pom
-http\://maven.springframework.org/milestone/.lastUpdated=1357261973125
-http\://cescoffier.github.com/maven-play2-plugin/maven/release/.error=
+#Tue Feb 26 00:35:07 EST 2013
 http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262153873
-https\://maven.java.net/content/repositories/releases/.error=
+https\://repository.apache.org/content/repositories/snapshots/.error=
+default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261984811
+http\://repo.eobjects.org/.error=
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261971001
+http\://maven.springframework.org/milestone/.lastUpdated=1357261973125
 http\://maven.springframework.org/milestone/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1361856907480
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repo.eobjects.org/.lastUpdated=1361856907454
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261987003
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357261973009
+https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261989258
+http\://cescoffier.github.com/maven-play2-plugin/maven/release/.error=
+http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.codehaus.jackson\:jackson-mapper-asl\:pom\:1.9.10 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.pom
+http\://cescoffier.github.com/maven-play2-plugin/maven/release/.lastUpdated=1357262061070
 https\://repository.apache.org/content/groups/snapshots/.error=
+https\://maven.java.net/content/repositories/releases/.error=

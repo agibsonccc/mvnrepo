@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.eobjects.metamodel</groupId>
+  <artifactId>MetaModel-salesforce</artifactId>
+  <version>3.2.7-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130222.102423</timestamp>
+      <buildNumber>23</buildNumber>
+    </snapshot>
+    <lastUpdated>20130222102423</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>3.2.7-20130222.102423-23</value>
+        <updated>20130222102423</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.2.7-20130222.102423-23</value>
+        <updated>20130222102423</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

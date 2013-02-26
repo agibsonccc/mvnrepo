@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.eobjects.analyzerbeans</groupId>
+  <artifactId>AnalyzerBeans-html-rendering</artifactId>
+  <versioning>
+    <versions>
+      <version>0.28-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130226054248</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.eobjects.metamodel</groupId>
+  <artifactId>MetaModel</artifactId>
+  <version>3.2.7-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130222.102135</timestamp>
+      <buildNumber>26</buildNumber>
+    </snapshot>
+    <lastUpdated>20130222102135</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.2.7-20130222.102135-26</value>
+        <updated>20130222102135</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

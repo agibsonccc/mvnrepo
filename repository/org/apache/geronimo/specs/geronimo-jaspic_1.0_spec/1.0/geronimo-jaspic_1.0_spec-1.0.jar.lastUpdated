@@ -1,10 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jan 08 21:18:19 EST 2013
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357697887003
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-jaspic_1.0_spec\:jar\:1.0 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/apache/geronimo/specs/geronimo-jaspic_1.0_spec/1.0/geronimo-jaspic_1.0_spec-1.0.jar
+#Tue Feb 26 00:57:29 EST 2013
 http\://repo1.maven.org/eclipse/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-jaspic_1.0_spec\:jar\:1.0 from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/org/apache/geronimo/specs/geronimo-jaspic_1.0_spec/1.0/geronimo-jaspic_1.0_spec-1.0.jar
+http\://repo.eobjects.org/.lastUpdated=1361858205712
 default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357697864765
+http\://repo.maven.apache.org/maven2/.lastUpdated=1361858249353
+http\://repo.eobjects.org/.error=
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-jaspic_1.0_spec\:jar\:1.0 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/apache/geronimo/specs/geronimo-jaspic_1.0_spec/1.0/geronimo-jaspic_1.0_spec-1.0.jar
 default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357697875486
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-jaspic_1.0_spec\:jar\:1.0 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jaspic_1.0_spec/1.0/geronimo-jaspic_1.0_spec-1.0.jar
-https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-jaspic_1.0_spec\:jar\:1.0 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/apache/geronimo/specs/geronimo-jaspic_1.0_spec/1.0/geronimo-jaspic_1.0_spec-1.0.jar
 default-http\://repo1.maven.org/eclipse/.lastUpdated=1357697899041
+https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-jaspic_1.0_spec\:jar\:1.0 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/apache/geronimo/specs/geronimo-jaspic_1.0_spec/1.0/geronimo-jaspic_1.0_spec-1.0.jar
