@@ -37,12 +37,7 @@
 		</dependencies>
 	</dependencyManagement>
 	<dependencies>
-		<dependency>
-			<groupId>net.sf.jgrapht</groupId>
-			<artifactId>jgrapht-core</artifactId>
-			<version>0.8.3-SNAPSHOT</version>
 
-		</dependency>
 		<dependency>
 			<groupId>edu.sussex.nlp</groupId>
 			<artifactId>jws</artifactId>
@@ -177,23 +172,7 @@
 			<artifactId>gson</artifactId>
 			<version>2.2.2</version>
 		</dependency>
-		<dependency>
-			<groupId>edu.mit</groupId>
 
-
-			<artifactId>jwi</artifactId>
-			<version>2.2.3</version>
-		</dependency>
-		<dependency>
-			<groupId>edu.cmu.lti</groupId>
-			<artifactId>jawjaw</artifactId>
-			<version>1.0.0</version>
-		</dependency>
-		<dependency>
-			<groupId>edu.cmu.lti</groupId>
-			<artifactId>ws4j</artifactId>
-			<version>1.0.0</version>
-		</dependency>
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-math3</artifactId>
@@ -270,15 +249,32 @@
 			<artifactId>wikicleaner-model</artifactId>
 			<version>0.0.1</version>
 		</dependency>
+
 		<dependency>
-			<groupId>joda-time</groupId>
-			<artifactId>joda-time</artifactId>
-			<version>2.1</version>
+			<groupId>com.ccc.sendalyzeit</groupId>
+			<artifactId>wordnet</artifactId>
+			<version>0.0.1</version>
 		</dependency>
 		<dependency>
-			<groupId>com.ibm.icu</groupId>
-			<artifactId>icu4j</artifactId>
-			<version>3.4.4</version>
+			<groupId>nz.ac.waikato.cms.weka</groupId>
+			<artifactId>weka-dev</artifactId>
+			<version>3.7.5</version>
+		</dependency>
+		<dependency>
+			<groupId>com.cybozu.labs</groupId>
+			<artifactId>langdetect</artifactId>
+			<version>1.1-20120112</version>
+		</dependency>
+		<dependency>
+			<groupId>com.typesafe.akka</groupId>
+			<artifactId>akka-actor_2.10</artifactId>
+			<version>2.1.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.scala-lang</groupId>
+			<artifactId>scala-library</artifactId>
+			<version>2.10.0</version>
 		</dependency>
 	</dependencies>
 </project>

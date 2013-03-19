@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Feb 27 16:05:25 EST 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1361999005634
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1361999125821
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact nz.ac.waikato.cms.weka\:weka-stable\:jar\:3.6.8 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1361999003989
+https\://repository.apache.org/content/groups/snapshots/.error=

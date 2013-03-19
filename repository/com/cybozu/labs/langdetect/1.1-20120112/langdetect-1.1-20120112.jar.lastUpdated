@@ -1,22 +1,27 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:33:47 EST 2013
+#Mon Mar 04 22:07:10 EST 2013
 default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357262267884
 http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact com.cybozu.labs\:langdetect\:jar\:1.1-20120112 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar
 default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261746852
 https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact com.cybozu.labs\:langdetect\:jar\:1.1-20120112 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar
 default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261758003
-default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357262255952
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.error=
 http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact com.cybozu.labs\:langdetect\:jar\:1.1-20120112 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1362452750074
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1362452826009
+http\://maven.repository.redhat.com/techpreview/all/.error=
 default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262837734
 http\://maven.springframework.org/milestone/.error=Could not transfer artifact com.cybozu.labs\:langdetect\:jar\:1.1-20120112 from/to org.springframework.maven.milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar
+http\://repo.maven.apache.org/maven2/.lastUpdated=1362452830193
 default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218894
 http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact com.cybozu.labs\:langdetect\:jar\:1.1-20120112 from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public-jboss/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public-jboss/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.cybozu.labs\:langdetect\:jar\:1.1-20120112 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar
 default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231022
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261734463
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1362452751161
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1362452747693
 http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact com.cybozu.labs\:langdetect\:jar\:1.1-20120112 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar
 https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact com.cybozu.labs\:langdetect\:jar\:1.1-20120112 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar
+https\://repository.apache.org/content/groups/snapshots/.error=
 default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357263227012
-https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact com.cybozu.labs\:langdetect\:jar\:1.1-20120112 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar
 default-http\://maven.springframework.org/milestone/.lastUpdated=1357262279857
 https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact com.cybozu.labs\:langdetect\:jar\:1.1-20120112 from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar
