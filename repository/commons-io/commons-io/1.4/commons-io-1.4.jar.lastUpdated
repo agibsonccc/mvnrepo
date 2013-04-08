@@ -1,13 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Wed Jan 16 08:15:44 EST 2013
-http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact commons-io\:commons-io\:jar\:1.4 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/commons-io/commons-io/1.4/commons-io-1.4.jar
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261822256
-http\://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-model-releases-local/.error=
-http\://download.java.net/maven/2/.lastUpdated=1357261839937
-http\://repo.maven.apache.org/maven2/.lastUpdated=1358342144878
-http\://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-model-releases-local/.lastUpdated=1358341682590
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact commons-io\:commons-io\:jar\:1.4 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/commons-io/commons-io/1.4/commons-io-1.4.jar
-http\://download.java.net/maven/2/.error=
-default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261812212
-http\://people.apache.org/repo/m2-incubating-repository/.lastUpdated=1357261836995
-http\://people.apache.org/repo/m2-incubating-repository/.error=
+#Mon Apr 08 01:51:02 UTC 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363878740524
+http\://repo.maven.apache.org/maven2/.lastUpdated=1365385862401
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363878739094
+https\://repository.apache.org/content/groups/snapshots/.error=

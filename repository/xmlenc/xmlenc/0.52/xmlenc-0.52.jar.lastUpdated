@@ -1,12 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:29:58 EST 2013
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357266512846
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357266525048
-https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact xmlenc\:xmlenc\:jar\:0.52 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/xmlenc/xmlenc/0.52/xmlenc-0.52.jar
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact xmlenc\:xmlenc\:jar\:0.52 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/xmlenc/xmlenc/0.52/xmlenc-0.52.jar
-default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357266502315
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1357266598007
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact xmlenc\:xmlenc\:jar\:0.52 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/xmlenc/xmlenc/0.52/xmlenc-0.52.jar
-http\://maven.springframework.org/milestone/.error=Could not transfer artifact xmlenc\:xmlenc\:jar\:0.52 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/xmlenc/xmlenc/0.52/xmlenc-0.52.jar
-https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact xmlenc\:xmlenc\:jar\:0.52 from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/xmlenc/xmlenc/0.52/xmlenc-0.52.jar
-default-http\://maven.springframework.org/milestone/.lastUpdated=1357266536948
+#Thu Mar 21 23:53:58 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363924404642
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363924438839
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363924393686
+https\://repository.apache.org/content/groups/snapshots/.error=

@@ -1,22 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:04:25 EST 2013
-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262152394
-https\://repository.apache.org/content/repositories/snapshots/.error=
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261895991
-http\://people.apache.org/~rawson/repo/.lastUpdated=1357263417485
-http\://maven.springframework.org/milestone/.lastUpdated=1357265064669
-http\://maven.springframework.org/milestone/.error=
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357265065396
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357265063350
-http\://download.java.net/maven/2/.lastUpdated=1357263416892
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://download.java.net/maven/2/.error=
-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357265064024
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357261898003
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357265065316
-http\://cescoffier.github.com/maven-play2-plugin/maven/release/.error=
-http\://people.apache.org/~rawson/repo/.error=
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
-http\://cescoffier.github.com/maven-play2-plugin/maven/release/.lastUpdated=1357262060949
-https\://repository.apache.org/content/groups/snapshots/.error=
-https\://maven.java.net/content/repositories/releases/.error=
+#Sat Mar 23 21:36:16 EDT 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364088976268
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1364088976114

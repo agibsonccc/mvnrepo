@@ -1,11 +1,9 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:25:22 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262722023
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262720136
-https\://repository.apache.org/content/repositories/snapshots/.error=
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262720007
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357262720535
-http\://maven.springframework.org/milestone/.lastUpdated=1357262720248
-http\://maven.springframework.org/milestone/.error=
-https\://maven.java.net/content/repositories/releases/.error=
+#Sat Mar 30 00:45:53 UTC 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364604353494
+default-https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1364604163697
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.hibernate\:hibernate-validator\:jar\:4.2.0.Final from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: No response received after 60000
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1364604249271
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1364603942583
+http\://maven.repository.redhat.com/techpreview/all/.error=
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.error=Could not transfer artifact org.hibernate\:hibernate-validator\:jar\:4.2.0.Final from/to bitbucket4 (https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository)\: No response received after 60000

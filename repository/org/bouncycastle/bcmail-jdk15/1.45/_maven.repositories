@@ -1,6 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jan 08 01:04:57 EST 2013
-bcmail-jdk15-1.45.pom>central=
-bcmail-jdk15-1.45-sources.jar>central=
-bcmail-jdk15-1.45-javadoc.jar>central=
-bcmail-jdk15-1.45.jar>central=
+#Sun Mar 24 15:32:31 EDT 2013
+bcmail-jdk15-1.45.jar>sendalyzeit=
+bcmail-jdk15-1.45-javadoc.jar>sendalyzeit=
+bcmail-jdk15-1.45.pom>sendalyzeit=

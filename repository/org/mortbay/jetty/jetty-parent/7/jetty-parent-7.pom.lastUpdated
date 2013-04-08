@@ -1,11 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:11:20 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357265480136
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357265478860
-https\://repository.apache.org/content/repositories/snapshots/.error=
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357265479929
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357265478761
-http\://maven.springframework.org/milestone/.lastUpdated=1357265480019
-http\://maven.springframework.org/milestone/.error=
-https\://maven.java.net/content/repositories/releases/.error=
+#Sat Mar 23 21:36:15 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363924364998
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364088975075
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1364088974997
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363924360975
+https\://repository.apache.org/content/groups/snapshots/.error=

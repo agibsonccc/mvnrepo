@@ -1,6 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:45:43 EST 2013
-log4j-1.2.16.jar>central=
+#Sun Mar 24 15:30:47 EDT 2013
+log4j-1.2.16.jar>sendalyzeit=
+log4j-1.2.16.pom>sendalyzeit=
 log4j-1.2.16.pom>central=
-log4j-1.2.16-javadoc.jar>central=
-log4j-1.2.16-sources.jar>central=
+log4j-1.2.16.jar>central=
+log4j-1.2.16-javadoc.jar>spring-milestones=

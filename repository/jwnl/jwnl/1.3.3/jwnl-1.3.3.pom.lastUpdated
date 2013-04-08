@@ -1,5 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 18:59:10 EST 2013
-http\://opennlp.sourceforge.net/maven2/.lastUpdated=1357257550934
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357257549635
+#Thu Mar 21 13:20:33 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363877686802
+http\://opennlp.sourceforge.net/maven2/.lastUpdated=1363886433038
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363886432758
 http\://repo.maven.apache.org/maven2/.error=
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363877686225
+https\://repository.apache.org/content/groups/snapshots/.error=

@@ -1,7 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:14:28 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262068044
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262067744
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
-http\://cescoffier.github.com/maven-play2-plugin/maven/release/.lastUpdated=1357262067857
-http\://cescoffier.github.com/maven-play2-plugin/maven/release/.error=
+#Sun Apr 07 21:59:04 UTC 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363924340137
+http\://repo.maven.apache.org/maven2/.lastUpdated=1365371944171
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363924339523
+https\://repository.apache.org/content/groups/snapshots/.error=

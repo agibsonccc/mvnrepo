@@ -1,3 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 10 18:17:39 EST 2013
-thrift-0.2.0.pom>hadoop-non-releases=
+#Sat Mar 23 21:40:14 EDT 2013
+thrift-0.2.0.jar>temp-thrift=
+thrift-0.2.0.pom>temp-thrift=

@@ -4,9 +4,8 @@
   <artifactId>cleartk-snowball</artifactId>
   <versioning>
     <versions>
-      <version>0.9.1-SNAPSHOT</version>
       <version>0.9.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130128233144</lastUpdated>
+    <lastUpdated>20130321172032</lastUpdated>
   </versioning>
 </metadata>

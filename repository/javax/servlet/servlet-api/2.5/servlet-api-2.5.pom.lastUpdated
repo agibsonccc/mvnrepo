@@ -1,7 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jan 08 13:35:08 EST 2013
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357670108660
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357670108766
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357670106957
+#Sat Mar 23 21:36:32 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363910303799
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364088992437
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1364088992356
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363910303145
 https\://repository.apache.org/content/groups/snapshots/.error=

@@ -1,6 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Feb 15 15:31:20 EST 2013
-pdfbox-1.6.0.jar>central=
-pdfbox-1.6.0.pom>central=
-pdfbox-1.6.0-sources.jar>central=
-pdfbox-1.6.0-javadoc.jar>central=
+#Sun Mar 24 15:32:18 EDT 2013
+pdfbox-1.6.0-javadoc.jar>sendalyzeit=
+pdfbox-1.6.0.jar>sendalyzeit=
+pdfbox-1.6.0.pom>sendalyzeit=

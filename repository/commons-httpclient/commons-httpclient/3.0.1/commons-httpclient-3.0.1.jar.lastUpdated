@@ -1,11 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:33:55 EST 2013
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262837721
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357263235215
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262827629
-https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact commons-httpclient\:commons-httpclient\:jar\:3.0.1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
-default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357263227001
-http\://maven.springframework.org/milestone/.lastUpdated=1357262838589
-http\://maven.springframework.org/milestone/.error=
-https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact commons-httpclient\:commons-httpclient\:jar\:3.0.1 from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar
+#Sun Apr 07 21:59:31 UTC 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363924404968
+http\://repo.maven.apache.org/maven2/.lastUpdated=1365371971128
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363924393689
+https\://repository.apache.org/content/groups/snapshots/.error=

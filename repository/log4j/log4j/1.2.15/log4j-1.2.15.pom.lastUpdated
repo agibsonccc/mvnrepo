@@ -1,9 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 10 18:18:34 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357859914138
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357859913898
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://maven.springframework.org/milestone/.lastUpdated=1357859913997
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357859913680
-http\://maven.springframework.org/milestone/.error=
+#Sat Mar 23 21:36:42 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363910297510
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364089002474
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1364089002377
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363910295261
 https\://repository.apache.org/content/groups/snapshots/.error=

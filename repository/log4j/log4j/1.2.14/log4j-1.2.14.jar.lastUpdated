@@ -1,11 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Feb 15 14:38:24 EST 2013
-http\://repo1.maven.org/eclipse/.error=Could not transfer artifact log4j\:log4j\:jar\:1.2.14 from/to eclipsePlugins (http\://repo1.maven.org/eclipse)\: connection timed out to http\://repo1.maven.org/eclipse/log4j/log4j/1.2.14/log4j-1.2.14.jar
-default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357697864733
-http\://repo.maven.apache.org/maven2/.lastUpdated=1360957104964
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact log4j\:log4j\:jar\:1.2.14 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: connection timed out to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/log4j/log4j/1.2.14/log4j-1.2.14.jar
-http\://repository.springsource.com/maven/bundles/external/.error=
-default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357697875467
-default-http\://repo1.maven.org/eclipse/.lastUpdated=1357697899026
-http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1357670396945
-https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact log4j\:log4j\:jar\:1.2.14 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/log4j/log4j/1.2.14/log4j-1.2.14.jar
+#Thu Mar 21 11:12:13 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363878733220
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363878730490
+https\://repository.apache.org/content/groups/snapshots/.error=

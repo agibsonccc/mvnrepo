@@ -1,6 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Mar 19 11:48:00 EDT 2013
-akka-remote_2.10-2.2-M2-javadoc.jar>central=
-akka-remote_2.10-2.2-M2-sources.jar>central=
-akka-remote_2.10-2.2-M2.jar>central=
-akka-remote_2.10-2.2-M2.pom>central=
+#Thu Mar 21 11:12:55 EDT 2013
+akka-remote_2.10-2.2-M2.pom>sendalyzeit=
+akka-remote_2.10-2.2-M2.jar>sendalyzeit=

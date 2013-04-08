@@ -1,11 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:06:03 EST 2013
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357261543818
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261563905
-https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact com.googlecode.json-simple\:json-simple\:pom\:1.1.1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact com.googlecode.json-simple\:json-simple\:pom\:1.1.1 from/to CCC (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357261562187
-7f62897e9766692c41b33f3525843f785e46fff0@default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261532817
-http\://maven.springframework.org/milestone/.error=Could not transfer artifact com.googlecode.json-simple\:json-simple\:pom\:1.1.1 from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
-https\://maven.java.net/content/repositories/releases/.error=
-default-http\://maven.springframework.org/milestone/.lastUpdated=1357261555817
+#Thu Mar 21 10:54:51 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363877691021
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363877690350
+https\://repository.apache.org/content/groups/snapshots/.error=

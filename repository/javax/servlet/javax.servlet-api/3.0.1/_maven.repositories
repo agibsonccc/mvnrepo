@@ -1,7 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:08:30 EST 2013
-javax.servlet-api-3.0.1-sources.jar>central=
-javax.servlet-api-3.0.1.pom>spring-test-mvc=
-javax.servlet-api-3.0.1-javadoc.jar>central=
-javax.servlet-api-3.0.1.jar>central=
-javax.servlet-api-3.0.1.pom>central=
+#Sat Mar 30 00:38:51 UTC 2013
+javax.servlet-api-3.0.1.jar>sendalyzeit=
+javax.servlet-api-3.0.1.pom>sendalyzeit=

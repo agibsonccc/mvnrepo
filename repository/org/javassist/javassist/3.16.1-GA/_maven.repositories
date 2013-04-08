@@ -1,6 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Wed Jan 16 08:09:16 EST 2013
-javassist-3.16.1-GA-javadoc.jar>central=
+#Sun Apr 07 21:59:29 UTC 2013
+javassist-3.16.1-GA-javadoc.jar>sendalyzeit=
+javassist-3.16.1-GA.jar>sendalyzeit=
 javassist-3.16.1-GA.jar>central=
+javassist-3.16.1-GA.pom>sendalyzeit=
 javassist-3.16.1-GA.pom>central=
-javassist-3.16.1-GA-sources.jar>central=

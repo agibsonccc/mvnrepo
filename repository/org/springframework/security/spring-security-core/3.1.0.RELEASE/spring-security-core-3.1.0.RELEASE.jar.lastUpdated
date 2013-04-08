@@ -1,17 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:03:22 EST 2013
-http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact org.springframework.security\:spring-security-core\:jar\:3.1.0.RELEASE from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/org/springframework/security/spring-security-core/3.1.0.RELEASE/spring-security-core-3.1.0.RELEASE.jar
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357264571674
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357264581818
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357263281538
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357265002754
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357263265885
-https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.springframework.security\:spring-security-core\:jar\:3.1.0.RELEASE from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/springframework/security/spring-security-core/3.1.0.RELEASE/spring-security-core-3.1.0.RELEASE.jar
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.springframework.security\:spring-security-core\:jar\:3.1.0.RELEASE from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/springframework/security/spring-security-core/3.1.0.RELEASE/spring-security-core-3.1.0.RELEASE.jar
-default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357264970365
-default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261812229
-http\://maven.springframework.org/milestone/.lastUpdated=1357264587377
-https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact org.springframework.security\:spring-security-core\:jar\:3.1.0.RELEASE from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/org/springframework/security/spring-security-core/3.1.0.RELEASE/spring-security-core-3.1.0.RELEASE.jar
-http\://maven.springframework.org/milestone/.error=
-https\://repository.apache.org/content/groups/snapshots/.error=
+#Sat Mar 30 00:42:42 UTC 2013
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1364604162429
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.springframework.security\:spring-security-core\:jar\:3.1.0.RELEASE from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: No response received after 60000
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1364603933766

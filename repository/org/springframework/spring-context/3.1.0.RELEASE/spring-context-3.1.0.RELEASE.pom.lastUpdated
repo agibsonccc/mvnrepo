@@ -1,5 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 18:39:48 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357256388358
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357256388212
+#Thu Mar 21 13:19:13 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363877377451
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363886353401
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363877376440
 https\://repository.apache.org/content/groups/snapshots/.error=

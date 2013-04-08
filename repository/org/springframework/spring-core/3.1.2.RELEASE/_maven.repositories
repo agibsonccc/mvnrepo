@@ -1,6 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Jan 05 02:24:41 EST 2013
-spring-core-3.1.2.RELEASE.jar>central=
-spring-core-3.1.2.RELEASE-javadoc.jar>bitbucket=
-spring-core-3.1.2.RELEASE.pom>central=
-spring-core-3.1.2.RELEASE-sources.jar>central=
+#Thu Mar 21 11:01:38 EDT 2013
+spring-core-3.1.2.RELEASE.pom>sendalyzeit=
+spring-core-3.1.2.RELEASE.jar>sendalyzeit=

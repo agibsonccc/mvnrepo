@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!--
 
     DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.
@@ -40,9 +40,7 @@
     holder.
 
 -->
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xsi:schemaLocation='http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd' xmlns='http://maven.apache.org/POM/4.0.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.sun.jersey</groupId>
     <artifactId>jersey-project</artifactId>
@@ -266,30 +264,13 @@
             <url>http://download.java.net/maven/2/</url>
             <layout>default</layout>
         </pluginRepository>
-        <pluginRepository>
-            <id>maven-repository.dev.java.net</id>
-            <name>Java.net Maven 1 Repository (legacy)</name>
-            <url>http://download.java.net/maven/1</url>
-            <layout>legacy</layout>
-        </pluginRepository>
+        
     </pluginRepositories>
 
     <repositories>
-        <repository>
-            <id>m1.dev.java.net</id>
-            <url>http://download.java.net/maven/1</url>
-            <layout>legacy</layout>
-        </repository>
-        <repository>
-            <id>m2.dev.java.net</id>
-            <url>http://download.java.net/maven/2</url>
-            <layout>default</layout>
-        </repository>
-        <repository>
-            <id>glassfish.dev.java.net</id>
-            <url>http://download.java.net/maven/glassfish</url>
-            <layout>default</layout>
-        </repository>
+        
+        
+        
     </repositories>
 
     <properties>

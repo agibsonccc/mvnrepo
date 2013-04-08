@@ -1,6 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Feb 15 15:31:20 EST 2013
-tika-parsers-1.1-sources.jar>central=
-tika-parsers-1.1-javadoc.jar>central=
+#Sun Mar 24 15:31:39 EDT 2013
+tika-parsers-1.1.pom>sendalyzeit=
+tika-parsers-1.1-javadoc.jar>sendalyzeit=
 tika-parsers-1.1.jar>central=
-tika-parsers-1.1.pom>central=

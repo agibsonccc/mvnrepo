@@ -1,19 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:03:48 EST 2013
-http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact junit\:junit\:jar\:4.8.2 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/junit/junit/4.8.2/junit-4.8.2.jar
-https\://repository.apache.org/content/repositories/snapshots/.error=
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357263265890
-http\://maven.springframework.org/milestone/.lastUpdated=1357265024572
-http\://maven.springframework.org/milestone/.error=
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357265028315
-default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218879
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357265023544
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231007
-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357265024168
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357263281548
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357265025761
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
-https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact junit\:junit\:jar\:4.8.2 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/junit/junit/4.8.2/junit-4.8.2.jar
+#Sat Mar 23 21:40:05 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363910575091
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364089205592
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1364089109050
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363910537512
 https\://repository.apache.org/content/groups/snapshots/.error=
-https\://maven.java.net/content/repositories/releases/.error=

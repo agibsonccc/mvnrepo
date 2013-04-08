@@ -1,6 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:45:33 EST 2013
-maltparser-1.7.1-javadoc.jar>central=
-maltparser-1.7.1-sources.jar>central=
-maltparser-1.7.1.jar>central=
-maltparser-1.7.1.pom>central=
+#Sun Mar 24 15:30:41 EDT 2013
+maltparser-1.7.1.jar>sendalyzeit=
+maltparser-1.7.1-javadoc.jar>sendalyzeit=
+maltparser-1.7.1.pom>sendalyzeit=

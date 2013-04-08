@@ -1,7 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Feb 15 15:31:20 EST 2013
-vorbis-java-core-0.1-sources.jar>central=
-vorbis-java-core-0.1-javadoc.jar>central=
-vorbis-java-core-0.1.jar>central=
-vorbis-java-core-0.1.pom>central=
-vorbis-java-core-0.1-tests.jar>central=
+#Sun Mar 24 15:31:52 EDT 2013
+vorbis-java-core-0.1.jar>sendalyzeit=
+vorbis-java-core-0.1-javadoc.jar>sendalyzeit=
+vorbis-java-core-0.1-tests.jar>sendalyzeit=
+vorbis-java-core-0.1.pom>sendalyzeit=

@@ -1,7 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Jan 04 23:09:09 EST 2013
-stanford-corenlp-1.3.4-sources.jar>central=
-stanford-corenlp-1.3.4-javadoc.jar>central=
-stanford-corenlp-1.3.4.jar>central=
-stanford-corenlp-1.3.4-models.jar>central=
+#Fri Mar 29 21:53:19 UTC 2013
+stanford-corenlp-1.3.4-javadoc.jar>sendalyzeit=
+stanford-corenlp-1.3.4.jar>sendalyzeit=
 stanford-corenlp-1.3.4.pom>central=
+stanford-corenlp-1.3.4.pom>sendalyzeit=

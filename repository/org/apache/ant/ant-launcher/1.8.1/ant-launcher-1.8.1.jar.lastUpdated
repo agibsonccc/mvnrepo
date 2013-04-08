@@ -1,5 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 18:58:52 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357257532439
-http\://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-releases/.lastUpdated=1357257527814
+#Thu Mar 21 13:20:16 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363877623588
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363886416851
+http\://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-releases/.lastUpdated=1363886416767
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363877583196
 http\://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-releases/.error=
+https\://repository.apache.org/content/groups/snapshots/.error=

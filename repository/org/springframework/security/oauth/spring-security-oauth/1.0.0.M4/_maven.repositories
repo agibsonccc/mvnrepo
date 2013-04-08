@@ -1,8 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Jan 05 02:23:35 EST 2013
-spring-security-oauth-1.0.0.M4.jar>spring-milestone=
-spring-security-oauth-1.0.0.M4-javadoc.jar>bitbucket=
-spring-security-oauth-1.0.0.M4-sources.jar>org.springframework.maven.milestone=
-spring-security-oauth-1.0.0.M4.pom>spring-milestone=
-spring-security-oauth-1.0.0.M4-sources.jar>spring-milestone=
-spring-security-oauth-1.0.0.M4-sources.jar>springtestmvc=
+#Sat Mar 30 00:38:54 UTC 2013
+spring-security-oauth-1.0.0.M4.pom>sendalyzeit=
+spring-security-oauth-1.0.0.M4.jar>sendalyzeit=

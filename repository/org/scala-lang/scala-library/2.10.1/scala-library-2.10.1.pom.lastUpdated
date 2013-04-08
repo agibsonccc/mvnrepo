@@ -1,9 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Mar 19 11:41:47 EDT 2013
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363707705778
-http\://repo.maven.apache.org/maven2/.lastUpdated=1363707707402
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
-http\://repo.akka.io/releases/.error=
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363707703317
-http\://repo.akka.io/releases/.lastUpdated=1363707701977
+#Thu Mar 21 11:12:24 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363878744916
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363878744090
 https\://repository.apache.org/content/groups/snapshots/.error=

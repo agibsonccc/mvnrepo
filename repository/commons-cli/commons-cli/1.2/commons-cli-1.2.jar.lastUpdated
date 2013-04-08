@@ -1,13 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Jan 05 16:56:56 EST 2013
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357266512845
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357266525048
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357423016574
-https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact commons-cli\:commons-cli\:jar\:1.2 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/commons-cli/commons-cli/1.2/commons-cli-1.2.jar
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact commons-cli\:commons-cli\:jar\:1.2 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/commons-cli/commons-cli/1.2/commons-cli-1.2.jar
-default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357266502310
-http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1357422760446
-http\://maven.springframework.org/milestone/.lastUpdated=1357422761285
-http\://maven.repository.redhat.com/techpreview/all/.error=
-https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact commons-cli\:commons-cli\:jar\:1.2 from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/commons-cli/commons-cli/1.2/commons-cli-1.2.jar
-http\://maven.springframework.org/milestone/.error=
+#Sat Mar 23 01:09:38 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363924404293
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364015378205
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363924393686
+https\://repository.apache.org/content/groups/snapshots/.error=
