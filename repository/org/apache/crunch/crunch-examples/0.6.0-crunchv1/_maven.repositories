@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 08 22:04:05 EDT 2013
+crunch-examples-0.6.0-crunchv1.jar>=
+crunch-examples-0.6.0-crunchv1-job.jar>=
+crunch-examples-0.6.0-crunchv1.pom>=
