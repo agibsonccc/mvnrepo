@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.ccc.sendalyzeit</groupId>
+		<artifactId>textanalytics</artifactId>
+		<version>0.0.1</version>
+	</parent>
+	<artifactId>textanalysis-map-reduce</artifactId>
+	<packaging>pom</packaging>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<hadoop.version>2.0.0-cdh4.2.0</hadoop.version>
+	</properties>
+	<repositories>
+		<repository>
+			<id>cloudera-2</id>
+			<name>Cloudera Repository</name>
+			<url>https://repository.cloudera.com/artifactory/cloudera-repos</url>
+		</repository>
+	</repositories>
+	<dependencies>
+		<dependency>
+			<groupId>edu.stanford.nlp</groupId>
+			<artifactId>stanford-corenlp</artifactId>
+		</dependency>
+	</dependencies>
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>edu.stanford.nlp</groupId>
+				<artifactId>stanford-corenlp</artifactId>
+				<version>1.3.3</version>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+	<modules>
+		<module>textanalysis-map-reduce-api</module>
+		<module>textanalysis-map-reduce-hadoop</module>
+		<module>textanalytics-map-reduce-hadoop-job</module>
+		<module>textanalysis-map-reduce-crunch</module>
+		<module>textanalysis-map-reduce-web</module>
+	</modules>
+</project>

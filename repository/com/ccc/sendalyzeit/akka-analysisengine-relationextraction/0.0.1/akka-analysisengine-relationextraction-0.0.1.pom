@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.ccc.sendalyzeit</groupId>
+    <artifactId>akka-analysisengine</artifactId>
+    <version>0.0.1</version>
+  </parent>
+  <artifactId>akka-analysisengine-relationextraction</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.ccc.sendalyzeit</groupId>
+  		<artifactId>akka-analysisengine-api</artifactId>
+  		<version>0.0.1</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>com.ccc.sendalyzeit</groupId>
+  		<artifactId>textanalytics-core</artifactId>
+  		<version>0.0.2</version>
+  	</dependency>
+  </dependencies>
+</project>
