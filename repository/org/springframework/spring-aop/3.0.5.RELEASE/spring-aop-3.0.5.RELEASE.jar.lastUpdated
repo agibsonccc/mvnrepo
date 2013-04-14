@@ -1,7 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Jan 05 16:56:56 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357423016559
-http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1357422760408
-http\://maven.springframework.org/milestone/.lastUpdated=1357422761275
-http\://maven.repository.redhat.com/techpreview/all/.error=
-http\://maven.springframework.org/milestone/.error=
+#Thu Mar 21 20:03:18 EDT 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363910598411
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.springframework\:spring-aop\:jar\:3.0.5.RELEASE from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: Failed to transfer https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar. Error code 503, Service Unavailable
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363910577189
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363910537517
+https\://repository.apache.org/content/groups/snapshots/.error=

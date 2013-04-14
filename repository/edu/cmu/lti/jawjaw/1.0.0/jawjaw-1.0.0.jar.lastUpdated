@@ -1,12 +1,9 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jan 15 21:17:56 EST 2013
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1358302656770
-http\://repo.maven.apache.org/maven2/.lastUpdated=1358302657625
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1358302657289
-http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1358302676886
+#Thu Mar 21 15:25:09 EDT 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363891725074
+https\://bitbucket.org/agibsonccc/textanalytics/raw/d2533173dc8a57a211c79d94115acf2b6101a24e/.lastUpdated=1363891646520
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact edu.cmu.lti\:jawjaw\:jar\:1.0.0 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: Access denied to https\://raw.github.com/agibsonccc/mvnrepo/master/repository/edu/cmu/lti/jawjaw/1.0.0/jawjaw-1.0.0.jar . Status code 403
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363893909494
 http\://repo.maven.apache.org/maven2/.error=
-https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.error=
-http\://maven.repository.redhat.com/techpreview/all/.error=
-https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1358302674964
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363891724467
 https\://repository.apache.org/content/groups/snapshots/.error=

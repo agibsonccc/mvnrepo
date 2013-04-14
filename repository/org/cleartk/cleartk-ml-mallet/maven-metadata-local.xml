@@ -4,9 +4,8 @@
   <artifactId>cleartk-ml-mallet</artifactId>
   <versioning>
     <versions>
-      <version>1.2.0-SNAPSHOT</version>
       <version>1.2.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130128233143</lastUpdated>
+    <lastUpdated>20130321172003</lastUpdated>
   </versioning>
 </metadata>

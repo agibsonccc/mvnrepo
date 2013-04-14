@@ -1,6 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Feb 15 15:31:20 EST 2013
-scannotation-1.0.2-sources.jar>central=
-scannotation-1.0.2-javadoc.jar>central=
-scannotation-1.0.2.jar>central=
-scannotation-1.0.2.pom>central=
+#Sun Mar 24 15:33:25 EDT 2013
+scannotation-1.0.2.jar>sendalyzeit=
+scannotation-1.0.2.pom>sendalyzeit=
+scannotation-1.0.2-javadoc.jar>spring-milestones=

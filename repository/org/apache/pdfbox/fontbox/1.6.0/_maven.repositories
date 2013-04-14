@@ -1,6 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Feb 15 15:31:20 EST 2013
-fontbox-1.6.0-sources.jar>central=
-fontbox-1.6.0-javadoc.jar>central=
-fontbox-1.6.0.jar>central=
-fontbox-1.6.0.pom>central=
+#Sun Mar 24 15:32:22 EDT 2013
+fontbox-1.6.0.pom>sendalyzeit=
+fontbox-1.6.0.jar>sendalyzeit=
+fontbox-1.6.0-javadoc.jar>sendalyzeit=

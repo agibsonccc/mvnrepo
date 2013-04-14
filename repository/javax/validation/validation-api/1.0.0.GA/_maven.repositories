@@ -1,8 +1,3 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:03:51 EST 2013
-validation-api-1.0.0.GA-sources.jar>central=
-validation-api-1.0.0.GA.jar>central=
-validation-api-1.0.0.GA-sources.jar>repository.jboss.org=
-validation-api-1.0.0.GA-javadoc.jar>repository.jboss.org=
-validation-api-1.0.0.GA-javadoc.jar>central=
-validation-api-1.0.0.GA.pom>central=
+#Sat Mar 30 00:34:53 UTC 2013
+validation-api-1.0.0.GA.pom>sendalyzeit=

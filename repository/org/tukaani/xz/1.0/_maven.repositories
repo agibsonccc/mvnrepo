@@ -1,6 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Jan 11 15:43:45 EST 2013
-xz-1.0-sources.jar>central=
-xz-1.0.jar>central=
-xz-1.0-javadoc.jar>central=
-xz-1.0.pom>central=
+#Sun Mar 24 15:30:22 EDT 2013
+xz-1.0-javadoc.jar>sendalyzeit=
+xz-1.0.jar>sendalyzeit=
+xz-1.0.pom>sonatype-oss-public=
+xz-1.0.jar>sonatype-oss-public=
+xz-1.0.pom>sendalyzeit=

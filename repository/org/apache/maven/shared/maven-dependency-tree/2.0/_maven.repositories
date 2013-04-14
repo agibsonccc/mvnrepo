@@ -1,4 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Thu Apr 11 14:14:51 EDT 2013
+=======
+#Mon Apr 08 21:10:38 EDT 2013
+>>>>>>> 1a4d354259bb2670b2ae8dc1e01181b79648c362
 maven-dependency-tree-2.0.jar>central=
 maven-dependency-tree-2.0.pom>central=

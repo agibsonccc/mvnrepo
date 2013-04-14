@@ -1,5 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Feb 26 00:40:00 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1361857200957
-http\://scala-tools.org/repo-releases/.error=
-http\://scala-tools.org/repo-releases/.lastUpdated=1361857200896
+#Sat Mar 23 21:41:42 EDT 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364089302746
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1364089302581

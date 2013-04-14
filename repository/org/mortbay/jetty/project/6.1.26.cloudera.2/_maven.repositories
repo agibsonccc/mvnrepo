@@ -1,3 +1,9 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Tue Apr 02 03:17:40 EDT 2013
 project-6.1.26.cloudera.2.pom>cloudera-2=
+=======
+#Mon Apr 08 21:58:51 EDT 2013
+project-6.1.26.cloudera.2.pom>cloudera-releases=
+project-6.1.26.cloudera.2.pom>cdh.repo=
+>>>>>>> 1a4d354259bb2670b2ae8dc1e01181b79648c362

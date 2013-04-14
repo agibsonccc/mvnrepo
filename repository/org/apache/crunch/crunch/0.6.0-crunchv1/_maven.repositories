@@ -1,4 +1,10 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Mon Apr 08 22:43:01 EDT 2013
 crunch-0.6.0-crunchv1.pom>sendalyzeit=
 crunch-0.6.0-crunchv1.jar>sendalyzeit=
+=======
+#Mon Apr 08 22:03:35 EDT 2013
+crunch-0.6.0-crunchv1.jar>=
+crunch-0.6.0-crunchv1.pom>=
+>>>>>>> 1a4d354259bb2670b2ae8dc1e01181b79648c362

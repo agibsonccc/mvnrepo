@@ -1,7 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Jan 05 16:56:56 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357423016562
-http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1357422760411
-http\://maven.springframework.org/milestone/.lastUpdated=1357422761277
-http\://maven.repository.redhat.com/techpreview/all/.error=
-http\://maven.springframework.org/milestone/.error=
+#Thu Mar 21 20:02:56 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363910576379
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363910537515
+https\://repository.apache.org/content/groups/snapshots/.error=

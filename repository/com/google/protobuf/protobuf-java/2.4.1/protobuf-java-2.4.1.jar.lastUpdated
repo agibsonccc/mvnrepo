@@ -1,11 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Jan 04 08:58:25 EST 2013
-default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218903
-default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231031
-default-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1357262360624
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357307905047
-default-https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1357262370677
-https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact com.google.protobuf\:protobuf-java\:jar\:2.4.1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/com/google/protobuf/protobuf-java/2.4.1/protobuf-java-2.4.1.jar
-https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=Could not transfer artifact com.google.protobuf\:protobuf-java\:jar\:2.4.1 from/to jboss-deprecated (https\://repository.jboss.org/nexus/content/repositories/deprecated/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/deprecated/com/google/protobuf/protobuf-java/2.4.1/protobuf-java-2.4.1.jar
-http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact com.google.protobuf\:protobuf-java\:jar\:2.4.1 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/com/google/protobuf/protobuf-java/2.4.1/protobuf-java-2.4.1.jar
-http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact com.google.protobuf\:protobuf-java\:jar\:2.4.1 from/to jboss-public-repository-group (http\://repository.jboss.org/nexus/content/groups/public/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public/com/google/protobuf/protobuf-java/2.4.1/protobuf-java-2.4.1.jar
+#Sat Mar 23 21:40:05 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363878775448
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364089205589
+https\://repository.cloudera.com/content/repositories/releases/.error=
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1364089109049
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363878766302
+https\://repository.apache.org/content/groups/snapshots/.error=

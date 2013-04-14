@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.crunch</groupId>
+  <artifactId>crunch-examples</artifactId>
+  <versioning>
+    <versions>
+      <version>0.6.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130409011120</lastUpdated>
+  </versioning>
+</metadata>

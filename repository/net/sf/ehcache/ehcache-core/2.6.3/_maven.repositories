@@ -1,6 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Feb 24 16:45:54 EST 2013
-ehcache-core-2.6.3-javadoc.jar>central=
-ehcache-core-2.6.3-sources.jar>central=
+#Sun Mar 24 15:33:58 EDT 2013
 ehcache-core-2.6.3.jar>central=
-ehcache-core-2.6.3.pom>central=
+ehcache-core-2.6.3.pom>sendalyzeit=
+ehcache-core-2.6.3-javadoc.jar>sendalyzeit=

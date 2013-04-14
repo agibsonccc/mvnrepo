@@ -1,6 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:20:42 EST 2013
-cleartk-type-system-1.1.0.jar>central=
-cleartk-type-system-1.1.0-javadoc.jar>central=
-cleartk-type-system-1.1.0-sources.jar>central=
-cleartk-type-system-1.1.0.pom>central=
+#Sun Mar 24 15:37:24 EDT 2013
+cleartk-type-system-1.1.0.pom>sendalyzeit=
+cleartk-type-system-1.1.0-javadoc.jar>sendalyzeit=
+cleartk-type-system-1.1.0.jar>sendalyzeit=

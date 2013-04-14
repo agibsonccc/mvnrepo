@@ -1,9 +1,9 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Jan 11 16:26:51 EST 2013
-https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1357939606969
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357939606541
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357939611484
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
-http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1357939607196
+#Sat Mar 30 00:45:53 UTC 2013
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1364604163697
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364604353351
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact com.google.guava\:guava-jdk5\:jar\:13.0 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: No response received after 60000
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1364604249271
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1364603942143
 http\://maven.repository.redhat.com/techpreview/all/.error=
 https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.error=

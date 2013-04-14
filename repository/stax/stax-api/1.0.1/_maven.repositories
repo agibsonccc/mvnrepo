@@ -1,6 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Jan 05 02:24:03 EST 2013
+#Sun Mar 24 15:24:33 EDT 2013
 stax-api-1.0.1.pom>central=
-stax-api-1.0.1-javadoc.jar>bitbucket=
-stax-api-1.0.1-sources.jar>bitbucket=
+stax-api-1.0.1-javadoc.jar>sendalyzeit=
+stax-api-1.0.1.pom>sendalyzeit=
+stax-api-1.0.1.jar>sendalyzeit=
 stax-api-1.0.1.jar>central=

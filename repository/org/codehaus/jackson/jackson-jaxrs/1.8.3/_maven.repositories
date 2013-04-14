@@ -1,6 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Jan 05 02:24:11 EST 2013
-jackson-jaxrs-1.8.3-sources.jar>central=
-jackson-jaxrs-1.8.3-javadoc.jar>bitbucket=
-jackson-jaxrs-1.8.3.jar>central=
-jackson-jaxrs-1.8.3.pom>central=
+#Sat Mar 30 00:38:51 UTC 2013
+jackson-jaxrs-1.8.3.jar>sendalyzeit=
+jackson-jaxrs-1.8.3.pom>sendalyzeit=

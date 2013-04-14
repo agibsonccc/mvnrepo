@@ -1,5 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 19:59:07 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261147268
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261121940
+#Thu Mar 21 10:54:03 EDT 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363877643307
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.cleartk\:cleartk-snowball\:jar\:0.9.1 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: Failed to transfer https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/cleartk/cleartk-snowball/0.9.1/cleartk-snowball-0.9.1.jar. Error code 503, Service Unavailable
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363877631404
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363877583878
 https\://repository.apache.org/content/groups/snapshots/.error=

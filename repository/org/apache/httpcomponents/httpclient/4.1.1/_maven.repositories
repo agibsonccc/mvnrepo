@@ -1,6 +1,3 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Jan 05 02:23:38 EST 2013
-httpclient-4.1.1.jar>central=
-httpclient-4.1.1.pom>central=
-httpclient-4.1.1-sources.jar>central=
-httpclient-4.1.1-javadoc.jar>bitbucket=
+#Sat Mar 30 00:32:59 UTC 2013
+httpclient-4.1.1.pom>sendalyzeit=

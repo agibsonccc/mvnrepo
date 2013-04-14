@@ -1,7 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Jan 05 14:05:07 EST 2013
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1357412694025
-https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1357412696874
-http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1357412707367
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
+#Sat Mar 30 00:44:08 UTC 2013
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1364604163696
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1364604248765
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.jboss.spec.javax.faces\:jboss-jsf-api_2.1_spec\:jar\:2.0.2.Final-redhat-1 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: No response received after 60000
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1364603936749
 https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.error=

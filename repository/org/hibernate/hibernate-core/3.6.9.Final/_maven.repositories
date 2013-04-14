@@ -1,6 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Jan 05 02:25:01 EST 2013
-hibernate-core-3.6.9.Final.jar>central=
-hibernate-core-3.6.9.Final-javadoc.jar>bitbucket=
-hibernate-core-3.6.9.Final-sources.jar>central=
-hibernate-core-3.6.9.Final.pom>central=
+#Sat Mar 30 00:42:40 UTC 2013
+hibernate-core-3.6.9.Final.pom>sendalyzeit=
+hibernate-core-3.6.9.Final.jar>bitbucket4=

@@ -1,4 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Tue Apr 02 22:04:02 EDT 2013
 plexus-io-2.0.4.jar>central=
+=======
+#Mon Apr 08 21:11:12 EDT 2013
+>>>>>>> 1a4d354259bb2670b2ae8dc1e01181b79648c362
 plexus-io-2.0.4.pom>central=

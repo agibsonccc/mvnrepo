@@ -1,5 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 19:59:06 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357261146691
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357261121891
+#Thu Mar 21 10:54:01 EDT 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363877641738
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.cleartk\:cleartk-named-entity\:jar\:0.6.3 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: Failed to transfer https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/cleartk/cleartk-named-entity/0.6.3/cleartk-named-entity-0.6.3.jar. Error code 503, Service Unavailable
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363877620581
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363877583192
 https\://repository.apache.org/content/groups/snapshots/.error=

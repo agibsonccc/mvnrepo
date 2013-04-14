@@ -1,4 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Mon Apr 08 22:40:36 EDT 2013
 hadoop-hdfs-2.0.0-cdh4.2.0.jar>cloudera-2=
 hadoop-hdfs-2.0.0-cdh4.2.0.pom>cloudera-2=
+=======
+#Mon Apr 08 21:59:03 EDT 2013
+hadoop-hdfs-2.0.0-cdh4.2.0.jar>cloudera-releases=
+hadoop-hdfs-2.0.0-cdh4.2.0.pom>cloudera-releases=
+hadoop-hdfs-2.0.0-cdh4.2.0-tests.jar>cloudera-releases=
+>>>>>>> 1a4d354259bb2670b2ae8dc1e01181b79648c362

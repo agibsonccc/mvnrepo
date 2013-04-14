@@ -1,9 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Wed Jan 16 10:17:54 EST 2013
-https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1358349472796
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1358349472391
-http\://repo.maven.apache.org/maven2/.lastUpdated=1358349474389
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
-http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1358349474217
-http\://maven.repository.redhat.com/techpreview/all/.error=
-https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.error=
+#Thu Mar 21 10:55:03 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363877703972
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363877703217
+https\://repository.apache.org/content/groups/snapshots/.error=

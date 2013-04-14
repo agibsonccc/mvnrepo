@@ -1,5 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Jan 19 13:56:04 EST 2013
+#Sat Mar 23 00:58:31 EDT 2013
 org.osgi.core-4.1.0.jar>central=
 org.osgi.core-4.1.0.pom>central=
-org.osgi.core-4.1.0.jar>com.springsource.repository.bundles.external=

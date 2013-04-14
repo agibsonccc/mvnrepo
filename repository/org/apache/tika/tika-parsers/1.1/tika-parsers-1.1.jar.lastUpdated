@@ -1,21 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Feb 15 15:31:20 EST 2013
-default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357262267876
-http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact org.apache.tika\:tika-parsers\:jar\:1.1 from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/org/apache/tika/tika-parsers/1.1/tika-parsers-1.1.jar
-default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261746843
-https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.tika\:tika-parsers\:jar\:1.1 from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/org/apache/tika/tika-parsers/1.1/tika-parsers-1.1.jar
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357261757993
-default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357262255945
-http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact org.apache.tika\:tika-parsers\:jar\:1.1 from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/org/apache/tika/tika-parsers/1.1/tika-parsers-1.1.jar
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262837724
-http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.apache.tika\:tika-parsers\:jar\:1.1 from/to org.springframework.maven.milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/org/apache/tika/tika-parsers/1.1/tika-parsers-1.1.jar
-http\://repo.maven.apache.org/maven2/.lastUpdated=1360960280943
-default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218888
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact org.apache.tika\:tika-parsers\:jar\:1.1 from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public-jboss/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public-jboss/org/apache/tika/tika-parsers/1.1/tika-parsers-1.1.jar
-default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231016
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact org.apache.tika\:tika-parsers\:jar\:1.1 from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/org/apache/tika/tika-parsers/1.1/tika-parsers-1.1.jar
-https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.tika\:tika-parsers\:jar\:1.1 from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/org/apache/tika/tika-parsers/1.1/tika-parsers-1.1.jar
-https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact org.apache.tika\:tika-parsers\:jar\:1.1 from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/org/apache/tika/tika-parsers/1.1/tika-parsers-1.1.jar
-default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357263227003
-default-http\://maven.springframework.org/milestone/.lastUpdated=1357262279849
-https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact org.apache.tika\:tika-parsers\:jar\:1.1 from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/org/apache/tika/tika-parsers/1.1/tika-parsers-1.1.jar
+#Thu Mar 21 11:11:54 EDT 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363878714251
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact org.apache.tika\:tika-parsers\:jar\:1.1 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: Failed to transfer https\://raw.github.com/agibsonccc/mvnrepo/master/repository/org/apache/tika/tika-parsers/1.1/tika-parsers-1.1.jar. Error code 503, Service Unavailable
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363878091431
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363877986201
+https\://repository.apache.org/content/groups/snapshots/.error=

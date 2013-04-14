@@ -1,4 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Fri Mar 29 23:31:00 EDT 2013
 jetty-6.1.14.jar>central=
+=======
+#Mon Apr 08 21:59:43 EDT 2013
+>>>>>>> 1a4d354259bb2670b2ae8dc1e01181b79648c362
 jetty-6.1.14.pom>central=

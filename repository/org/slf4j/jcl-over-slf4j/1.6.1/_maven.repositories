@@ -1,6 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 21:43:22 EST 2013
-jcl-over-slf4j-1.6.1-sources.jar>springtestmvc=
-jcl-over-slf4j-1.6.1.pom>central=
-jcl-over-slf4j-1.6.1-sources.jar>central=
-jcl-over-slf4j-1.6.1-javadoc.jar>central=
+#Thu Mar 21 20:03:17 EDT 2013
+jcl-over-slf4j-1.6.1.jar>central=
+jcl-over-slf4j-1.6.1.pom>sendalyzeit=

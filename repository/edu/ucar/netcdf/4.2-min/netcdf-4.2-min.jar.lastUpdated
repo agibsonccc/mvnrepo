@@ -1,21 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Feb 15 15:31:20 EST 2013
-default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1357262267877
-http\://repo.springsource.org/libs-milestone/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to springtestmvc (http\://repo.springsource.org/libs-milestone)\: connection timed out to http\://repo.springsource.org/libs-milestone/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
-default-http\://cleartk.googlecode.com/svn/repo/.lastUpdated=1357261746846
-https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to amber incubating (https\://repository.apache.org/content/repositories/snapshots/)\: connection timed out to https\://repository.apache.org/content/repositories/snapshots/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
-default-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357266512875
-default-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1357262255946
-http\://cleartk.googlecode.com/svn/repo/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to cleartk-googlecode (http\://cleartk.googlecode.com/svn/repo/)\: connection timed out to http\://cleartk.googlecode.com/svn/repo/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
-default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357266525069
-http\://maven.springframework.org/milestone/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to spring-milestone (http\://maven.springframework.org/milestone)\: connection timed out to http\://maven.springframework.org/milestone/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
-http\://repo.maven.apache.org/maven2/.lastUpdated=1360960280966
-default-http\://repo.springsource.org/libs-milestone/.lastUpdated=1357262218889
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public-jboss/)\: connection timed out to http\://repository.jboss.org/nexus/content/groups/public-jboss/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
-default-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1357262231017
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to ccc (http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC)\: connection timed out to http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
-https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to jboss (https\://repository.jboss.org/nexus/content/repositories/releases/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/releases/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
-default-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357266502396
-https\://repository.apache.org/content/groups/snapshots/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to Apache Snapshots (https\://repository.apache.org/content/groups/snapshots)\: connection timed out to https\://repository.apache.org/content/groups/snapshots/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
-default-http\://maven.springframework.org/milestone/.lastUpdated=1357266536971
-https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact edu.ucar\:netcdf\:jar\:4.2-min from/to java.net-Public (https\://maven.java.net/content/repositories/releases/)\: connection timed out to https\://maven.java.net/content/repositories/releases/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar
+#Thu Mar 21 11:01:32 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363878092289
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363877986204
+https\://repository.apache.org/content/groups/snapshots/.error=

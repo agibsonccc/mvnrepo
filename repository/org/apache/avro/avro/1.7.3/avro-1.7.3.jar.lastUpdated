@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 08 21:46:17 EDT 2013
+http\://www.datanucleus.org/downloads/maven2/.error=
+https\://repository.cloudera.com/content/repositories/third-party/.lastUpdated=1365471977436
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1365471976880
+http\://download.java.net/maven/2/.lastUpdated=1365471977285
+http\://repo.maven.apache.org/maven2/.lastUpdated=1365471977738
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1365471976804
+https\://repository.apache.org/content/repositories/snapshots/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1365471976628
+http\://download.java.net/maven/2/.error=
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.error=
+http\://www.datanucleus.org/downloads/maven2/.lastUpdated=1365471977163
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1365471976322
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://repository.cloudera.com/content/repositories/third-party/.error=

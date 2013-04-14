@@ -1,7 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Feb 24 16:44:41 EST 2013
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1361742277457
-http\://repo.maven.apache.org/maven2/.lastUpdated=1361742281545
-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=
-https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1361742276703
+#Thu Mar 21 11:11:54 EDT 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363878714403
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact net.sf.ehcache\:ehcache-core\:jar\:2.6.3 from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: Failed to transfer https\://raw.github.com/agibsonccc/mvnrepo/master/repository/net/sf/ehcache/ehcache-core/2.6.3/ehcache-core-2.6.3.jar. Error code 503, Service Unavailable
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363878098430
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363877986221
 https\://repository.apache.org/content/groups/snapshots/.error=

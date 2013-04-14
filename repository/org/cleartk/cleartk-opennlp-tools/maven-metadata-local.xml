@@ -4,9 +4,8 @@
   <artifactId>cleartk-opennlp-tools</artifactId>
   <versioning>
     <versions>
-      <version>0.10.1-SNAPSHOT</version>
       <version>0.10.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130128233154</lastUpdated>
+    <lastUpdated>20130321172042</lastUpdated>
   </versioning>
 </metadata>

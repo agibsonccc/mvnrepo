@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 08 22:08:00 EDT 2013
+crunch-hbase-0.6.0-crunchv2.jar>=
+crunch-hbase-0.6.0-crunchv2.pom>=

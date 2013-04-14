@@ -1,5 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Jan 28 18:26:33 EST 2013
-https\://oss.sonatype.org/content/groups/public/.lastUpdated=1359415587935
-http\://repo.maven.apache.org/maven2/.lastUpdated=1359415593189
+#Thu Mar 21 15:35:08 EDT 2013
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1363877766864
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1363894508561
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363894508797
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1363877766216
 https\://oss.sonatype.org/content/groups/public/.error=
+https\://repository.apache.org/content/groups/snapshots/.error=

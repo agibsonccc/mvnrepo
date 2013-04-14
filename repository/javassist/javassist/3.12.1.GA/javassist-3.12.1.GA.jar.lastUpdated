@@ -1,11 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 03 20:25:21 EST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1357262721945
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.lastUpdated=1357262720132
-https\://repository.apache.org/content/repositories/snapshots/.error=
-http\://www.clevercloudcomputing.com/nexus/content/repositories/CCC/.error=
-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1357262720003
-https\://maven.java.net/content/repositories/releases/.lastUpdated=1357262720531
-http\://maven.springframework.org/milestone/.lastUpdated=1357262720247
-http\://maven.springframework.org/milestone/.error=
-https\://maven.java.net/content/repositories/releases/.error=
+#Sat Mar 30 00:42:43 UTC 2013
+https\://bitbucket.org/agibsonccc/mvnrepo/raw/b3eac966485d58797536ced2b51c8d379f44f4e9/repository/.lastUpdated=1364604163319
+https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.error=Could not transfer artifact javassist\:javassist\:jar\:3.12.1.GA from/to sendalyzeit (https\://raw.github.com/agibsonccc/mvnrepo/master/repository)\: No response received after 60000
+default-https\://raw.github.com/agibsonccc/mvnrepo/master/repository/.lastUpdated=1364603935312

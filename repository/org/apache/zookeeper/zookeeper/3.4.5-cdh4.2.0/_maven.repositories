@@ -1,4 +1,12 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Mon Apr 08 22:40:36 EDT 2013
 zookeeper-3.4.5-cdh4.2.0.pom>cloudera-2=
 zookeeper-3.4.5-cdh4.2.0.jar>cloudera-2=
+=======
+#Mon Apr 08 21:59:05 EDT 2013
+zookeeper-3.4.5-cdh4.2.0.pom>cloudera-releases=
+zookeeper-3.4.5-cdh4.2.0-tests.jar>cdh.repo=
+zookeeper-3.4.5-cdh4.2.0.jar>cdh.repo=
+zookeeper-3.4.5-cdh4.2.0.pom>cdh.repo=
+>>>>>>> 1a4d354259bb2670b2ae8dc1e01181b79648c362
